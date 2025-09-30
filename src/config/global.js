@@ -1,8 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'Nombre_del_recurso_educativo',
-    descripcionCurso: 'Descripción_del_RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    componenteFormativo: 'Servicios de la computación en la nube',
+    descripcionCurso:
+      'Este componente aborda los servicios y plataformas en la nube, sus aplicaciones cotidianas y las tendencias emergentes. Permite comprender modelos como IaaS, PaaS y SaaS, explorar proveedores líderes y analizar el impacto de la automatización, la seguridad y la innovación tecnológica en entornos educativos, empresariales y profesionales.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -30,13 +31,28 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Servicios en la nube',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo_de_segundo_nivel',
+            titulo: 'Infraestructura como Servicio (IaaS)',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Plataforma como Servicio (PaaS)',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: '<em>Software</em> como Servicio (SaaS)',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Comparación entre IaaS, PaaS y SaaS',
+            hash: 't_1_4',
           },
         ],
       },
@@ -44,14 +60,63 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Plataformas en la nube',
         desarrolloContenidos: true,
+        subMenu: [
+          { numero: '2.1', titulo: 'Google Cloud', hash: 't_2_1' },
+          { numero: '2.2', titulo: 'Microsoft Azure', hash: 't_2_2' },
+          { numero: '2.3', titulo: 'Amazon Web Services', hash: 't_2_3' },
+          {
+            numero: '2.4',
+            titulo: 'Oracle Cloud Infrastructure',
+            hash: 't_2_4',
+          },
+          {
+            numero: '2.5',
+            titulo: 'Modo de uso de interfaces y herramientas',
+            hash: 't_2_5',
+          },
+        ],
       },
+
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Aplicaciones cotidianas de la nube',
         desarrolloContenidos: true,
+        subMenu: [
+          { numero: '3.1', titulo: 'Almacenamiento en la nube', hash: 't_3_1' },
+          { numero: '3.2', titulo: 'Colaboración en línea', hash: 't_3_2' },
+          {
+            numero: '3.3',
+            titulo: 'Productividad en entornos educativos y empresariales',
+            hash: 't_3_3',
+          },
+        ],
+      },
+
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Tendencias y tecnologías emergentes en la nube',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Tecnologías nativas de la nube',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Automatización para la optimización de tiempos',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Cumplimiento y seguridad en entornos modernos',
+            hash: 't_4_3',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -101,28 +166,129 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema_complementario',
-      referencia: 'Referencia_complementario',
-      tipo: 'Tipo_complementario',
-      link: 'Link_complementario',
+      tema: 'Servicios en la nube',
+      referencia:
+        'AlbertoLopez TECH TIPS. (2020). CLOUD COMPUTING <em>¿Qué es IaaS, PaaS y Saas? | Modelos de Servicio Cloud</em> [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=VR8aXePkQ5M',
     },
     {
-      tema: 'Tema_complementario',
-      referencia: 'Referencia_complementario',
-      tipo: 'Tipo_complementario',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Plataformas en la nube',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (2023). <em>Servicios de computación en la nube</em> [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=YVGE11mjc1g',
+    },
+    {
+      tema: 'Aplicaciones cotidianas de la nube',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (2023). <em>Migración de servicios en la nube</em> [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=yMuxG6LFGUo',
     },
   ],
   glosario: [
     {
-      termino: 'Termino_glosario',
-      significado: 'Significado_glosario',
+      termino: 'API (Interfaz de Programación de Aplicaciones)',
+      significado:
+        'Conjunto de funciones y procedimientos que permiten a aplicaciones comunicarse entre sí y aprovechar servicios de otras plataformas.',
+    },
+    {
+      termino: 'Automatización',
+      significado:
+        'Uso de herramientas y programas para ejecutar tareas repetitivas sin intervención humana, optimizando tiempos y reduciendo errores.',
+    },
+    {
+      termino: 'Contenedor',
+      significado:
+        'Entorno aislado que permite ejecutar aplicaciones de manera consistente en distintos sistemas, asegurando portabilidad y eficiencia.',
+    },
+    {
+      termino: 'IaaS (Infraestructura como Servicio)',
+      significado:
+        'Modelo de nube que proporciona recursos de infraestructura, como servidores, almacenamiento y redes, bajo demanda.',
+    },
+    {
+      termino: 'MFA (Autenticación Multifactor)',
+      significado:
+        'Método de seguridad que requiere más de una forma de verificación para acceder a sistemas o datos.',
+    },
+    {
+      termino: 'Microservicio',
+      significado:
+        'Componente de <em>software</em> independiente y modular que realiza funciones específicas dentro de una aplicación más grande.',
+    },
+    {
+      termino: 'PaaS (Plataforma como Servicio)',
+      significado:
+        'Modelo de nube que ofrece entornos completos para desarrollar, probar y desplegar aplicaciones sin gestionar la infraestructura subyacente.',
+    },
+    {
+      termino: 'SaaS (<em>Software</em> como Servicio)',
+      significado:
+        'Aplicaciones accesibles por Internet, que no requieren instalación local y se utilizan mediante suscripción o acceso en línea.',
+    },
+    {
+      termino: 'Seguridad en la nube',
+      significado:
+        'Conjunto de políticas, tecnologías y controles que protegen datos, aplicaciones y servicios alojados en entornos cloud.',
+    },
+    {
+      termino: 'Orquestador (Kubernetes)',
+      significado:
+        'Herramienta que gestiona automáticamente la ejecución, escalado y supervisión de contenedores en entornos cloud.',
     },
   ],
   referencias: [
     {
-      referencia: 'Nombre_referencias',
-      link: 'Link_referencias',
+      referencia:
+        'Amazon Web Services. (2024). <em>Descripción general de Amazon Web Services</em>.',
+      link:
+        'https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html',
+    },
+    {
+      referencia:
+        'Celaya Luna, A. (2013). <em>Cloud: herramientas para trabajar en la nube</em>. ICB Editores.',
+      link: '',
+    },
+    {
+      referencia:
+        'Google Cloud. (2025). <em>Documentación de Google Cloud</em>.',
+      link: 'https://cloud.google.com/docs',
+    },
+    {
+      referencia:
+        'Ibáñez Carrasco, P. (2018a). <em>Informática I</em>. Cengage Learning.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ibáñez Carrasco, P. (2018b). <em>Informática II</em>. Cengage Learning.',
+      link: '',
+    },
+    {
+      referencia:
+        'Menchén, A. (2016). <em>Software ofimático de productividad en la nube</em>. Rama Editorial.',
+      link: '',
+    },
+    {
+      referencia: 'Microsoft Azure. (2025). <em>Azure documentation</em>.',
+      link: 'https://learn.microsoft.com/en-us/azure/',
+    },
+    {
+      referencia:
+        'Mosco, V. (2016). La nube: <em>Big Data en un mundo turbulento</em>. Biblioteca Buridán.',
+      link: '',
+    },
+    {
+      referencia:
+        'Oracle. (2025). <em>Documentación de Oracle Cloud Infrastructure</em>.',
+      link: 'https://docs.oracle.com/iaas/',
+    },
+    {
+      referencia:
+        'Postigo Palacios, A. (2020). <em>Seguridad informática</em>. Editorial Paraninfo.',
+      link: '',
     },
   ],
   creditos: [
@@ -131,7 +297,8 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del equipo',
+          cargo:
+            'Responsable Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Dirección General',
         },
         {
@@ -145,9 +312,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre_Experto',
-          cargo: 'Cargo_Experto',
-          centro: 'Regional_Experto',
+          nombre: 'Javier Eduardo Díaz Machuca',
+          cargo: 'Experto temático',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Viviana Esperanza Herrera Quiñonez',
+          cargo: 'Evaluadora instruccional ',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
@@ -155,17 +327,27 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre_Experto',
-          cargo: 'Diseñador web',
+          nombre: 'Oscar Ivan Uribe Ortiz',
+          cargo: 'Diseñador <em>web</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_Experto',
+          nombre: 'Juan Daniel Polanco Muñoz',
+          cargo: 'Diseñador <em>web</em>',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Sebastian Trujillo Afanador',
           cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_Experto',
+          nombre: 'Diego Fernando Velasco Güiza ',
+          cargo: 'Desarrollador <em>full stack</em>',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
@@ -175,12 +357,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre_Experto',
+          nombre: 'Jorge Eduardo Rueda Peña',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_Experto',
+          nombre: 'Jorge Bustos Gómez',
           cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },

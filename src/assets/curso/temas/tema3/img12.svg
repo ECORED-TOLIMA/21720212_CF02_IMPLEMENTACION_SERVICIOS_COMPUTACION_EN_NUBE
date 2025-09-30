@@ -1,0 +1,336 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="295" height="182.377" viewBox="0 0 295 182.377">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_448874" data-name="Rectangle 448874" width="124.522" height="167.132" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_448868" data-name="Rectangle 448868" width="188.355" height="167.132" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Path_946908" data-name="Path 946908" d="M85.8,14.21c-3.488,2.71-2.438,6.568,2.556,8.452s11.571.9,14.5-2.018c2.756-2.745,1.253-6.211-3.2-7.891a15.947,15.947,0,0,0-5.554-.949,13.943,13.943,0,0,0-8.3,2.405" transform="translate(-83.75 -11.805)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <path id="Path_946929" data-name="Path 946929" d="M55.574,12.754c-4.457,1.68-5.96,5.146-3.2,7.891,2.934,2.919,9.509,3.9,14.505,2.018s6.044-5.743,2.556-8.452a13.947,13.947,0,0,0-8.3-2.405,15.947,15.947,0,0,0-5.554.949" transform="translate(-50.985 -11.805)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <path id="Path_946950" data-name="Path 946950" d="M88.338,31.541c-4.457,1.68-5.96,5.147-3.2,7.89,2.932,2.921,9.508,3.9,14.5,2.019s6.044-5.743,2.556-8.453a13.949,13.949,0,0,0-8.3-2.4,15.958,15.958,0,0,0-5.553.948" transform="translate(-83.749 -30.593)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-10">
+      <path id="Path_946971" data-name="Path 946971" d="M53.032,33c-3.487,2.71-2.438,6.569,2.556,8.453s11.571.9,14.5-2.019c2.756-2.743,1.254-6.21-3.2-7.89a15.962,15.962,0,0,0-5.554-.948,13.952,13.952,0,0,0-8.3,2.4" transform="translate(-50.986 -30.593)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1173362" data-name="Group 1173362" transform="translate(-285.132 -4051)">
+    <rect id="Rectangle_447487" data-name="Rectangle 447487" width="295" height="182.377" rx="10" transform="translate(285.132 4051)" fill="#00bdff"/>
+    <g id="Group_1172461" data-name="Group 1172461" transform="translate(370.132 4064)">
+      <g id="Group_1172452" data-name="Group 1172452" clip-path="url(#clip-path)">
+        <path id="Path_946701" data-name="Path 946701" d="M1.134,128.984l61.837,36.044,61.5-34.99L62.182,93.731Z" transform="translate(-0.251 -20.745)" fill="#a4a3cd"/>
+        <path id="Path_946702" data-name="Path 946702" d="M1.134,159.342l61.837,36.044V175.049L1.134,139.005Z" transform="translate(-0.251 -30.766)" fill="#5b5c71"/>
+        <path id="Path_946703" data-name="Path 946703" d="M80.548,195.7l61.8-35.246V140.023l-61.8,35.25Z" transform="translate(-17.828 -30.991)" fill="#13121a"/>
+        <path id="Path_946704" data-name="Path 946704" d="M85.271,194.749l32.339-18.443V164.35L85.271,182.795Z" transform="translate(-18.873 -36.375)" fill="#313247"/>
+        <path id="Path_946705" data-name="Path 946705" d="M116.49,175.186l-31.218,17.8v1.761l32.339-18.443V164.35l-1.12.639Z" transform="translate(-18.873 -36.375)" fill="#5b5c71"/>
+        <path id="Path_946706" data-name="Path 946706" d="M87.915,190.351l1.763-1.007v-1.781l-1.763,1.005Z" transform="translate(-19.458 -41.513)" fill="#5ad5e4"/>
+        <path id="Path_946707" data-name="Path 946707" d="M87.915,193.68l1.763-1.006v-1.782L87.915,191.9Z" transform="translate(-19.458 -42.25)" fill="#eede6d"/>
+        <path id="Path_946708" data-name="Path 946708" d="M87.915,197.01,89.678,196v-1.782l-1.763,1Z" transform="translate(-19.458 -42.987)" fill="#5ad5e4"/>
+        <path id="Path_946709" data-name="Path 946709" d="M91.138,188.539l1.764-1.005v-1.782l-1.764,1.005Z" transform="translate(-20.171 -41.112)" fill="#5ad5e4"/>
+        <path id="Path_946710" data-name="Path 946710" d="M91.138,191.869l1.764-1.005v-1.782l-1.764,1Z" transform="translate(-20.171 -41.849)" fill="#5ad5e4"/>
+        <path id="Path_946711" data-name="Path 946711" d="M91.138,195.2l1.764-1V192.41l-1.764,1.006Z" transform="translate(-20.171 -42.586)" fill="#f2b024"/>
+        <path id="Path_946712" data-name="Path 946712" d="M94.36,186.728l1.764-1.006v-1.782l-1.764,1.005Z" transform="translate(-20.885 -40.711)" fill="#f2b024"/>
+        <path id="Path_946713" data-name="Path 946713" d="M94.36,190.058l1.764-1.007v-1.781l-1.764,1.005Z" transform="translate(-20.885 -41.448)" fill="#5ad5e4"/>
+        <path id="Path_946714" data-name="Path 946714" d="M94.36,193.387l1.764-1.006V190.6l-1.764,1.006Z" transform="translate(-20.885 -42.185)" fill="#5ad5e4"/>
+        <path id="Path_946715" data-name="Path 946715" d="M97.583,184.916l1.764-1V182.13l-1.764,1Z" transform="translate(-21.598 -40.311)" fill="#eede6d"/>
+        <path id="Path_946716" data-name="Path 946716" d="M97.583,188.246l1.764-1.005v-1.782l-1.764,1.005Z" transform="translate(-21.598 -41.048)" fill="#5ad5e4"/>
+        <path id="Path_946717" data-name="Path 946717" d="M97.583,191.576l1.764-1.005v-1.782l-1.764,1.005Z" transform="translate(-21.598 -41.784)" fill="#f2b024"/>
+        <path id="Path_946718" data-name="Path 946718" d="M100.722,183.127l1.763-1.006v-1.782l-1.763,1.005Z" transform="translate(-22.293 -39.914)" fill="#5ad5e4"/>
+        <path id="Path_946719" data-name="Path 946719" d="M100.722,189.786l1.763-1.006V187l-1.763,1Z" transform="translate(-22.293 -41.388)" fill="#5ad5e4"/>
+        <path id="Path_946720" data-name="Path 946720" d="M103.944,184.644l1.764-1.005v-1.782l-1.764,1Z" transform="translate(-23.006 -40.25)" fill="#5ad5e4"/>
+        <path id="Path_946721" data-name="Path 946721" d="M103.944,187.973l1.764-1v-1.782l-1.764,1.005Z" transform="translate(-23.006 -40.987)" fill="#f2b024"/>
+        <path id="Path_946722" data-name="Path 946722" d="M107.168,179.5l1.764-1.006v-1.782l-1.764,1.006Z" transform="translate(-23.719 -39.112)" fill="#f2b024"/>
+        <path id="Path_946723" data-name="Path 946723" d="M107.168,186.163l1.764-1.006v-1.782l-1.764,1.006Z" transform="translate(-23.719 -40.586)" fill="#5ad5e4"/>
+        <path id="Path_946724" data-name="Path 946724" d="M110.39,181.021l1.764-1.005v-1.782l-1.764,1.005Z" transform="translate(-24.433 -39.449)" fill="#5ad5e4"/>
+        <path id="Path_946725" data-name="Path 946725" d="M5.819,158.6l23.606,13.462V160.111L5.819,146.647Z" transform="translate(-1.288 -32.457)" fill="#13121a"/>
+        <path id="Path_946726" data-name="Path 946726" d="M9.156,160.507l1.79,1.021V149.57l-1.79-1.021Z" transform="translate(-2.027 -32.878)" fill="#313247"/>
+        <path id="Path_946727" data-name="Path 946727" d="M9.156,162.941l1.79,1.021V160.57l-1.79-1.02Z" transform="translate(-2.027 -35.313)" fill="#f2b024"/>
+        <path id="Path_946728" data-name="Path 946728" d="M9.156,153.6l1.79,1.021V149.57l-1.79-1.02Z" transform="translate(-2.027 -32.878)" fill="#eede6d"/>
+        <path id="Path_946729" data-name="Path 946729" d="M12.944,162.659l1.789,1.021V151.723l-1.789-1.02Z" transform="translate(-2.865 -33.355)" fill="#313247"/>
+        <path id="Path_946730" data-name="Path 946730" d="M12.944,154.094l1.789,1.021v-3.392l-1.789-1.02Z" transform="translate(-2.865 -33.355)" fill="#f2b024"/>
+        <path id="Path_946731" data-name="Path 946731" d="M12.944,164.621l1.789,1.021v-5.054l-1.789-1.02Z" transform="translate(-2.865 -35.317)" fill="#eede6d"/>
+        <path id="Path_946732" data-name="Path 946732" d="M16.7,164.782l1.789,1.021V153.847l-1.789-1.02Z" transform="translate(-3.696 -33.825)" fill="#313247"/>
+        <path id="Path_946733" data-name="Path 946733" d="M16.7,167.217l1.789,1.021v-3.391l-1.789-1.02Z" transform="translate(-3.696 -36.26)" fill="#f2b024"/>
+        <path id="Path_946734" data-name="Path 946734" d="M16.7,157.88l1.789,1.021v-5.054l-1.789-1.02Z" transform="translate(-3.696 -33.825)" fill="#eede6d"/>
+        <path id="Path_946735" data-name="Path 946735" d="M20.486,166.936l1.789,1.021V156l-1.789-1.02Z" transform="translate(-4.534 -34.302)" fill="#313247"/>
+        <path id="Path_946736" data-name="Path 946736" d="M20.486,158.371l1.789,1.021V156l-1.789-1.02Z" transform="translate(-4.534 -34.302)" fill="#f2b024"/>
+        <path id="Path_946737" data-name="Path 946737" d="M20.486,168.9l1.789,1.021v-5.055l-1.789-1.019Z" transform="translate(-4.534 -36.264)" fill="#eede6d"/>
+        <path id="Path_946738" data-name="Path 946738" d="M24.242,169.06l1.789,1.021V158.123l-1.789-1.02Z" transform="translate(-5.365 -34.772)" fill="#313247"/>
+        <path id="Path_946739" data-name="Path 946739" d="M24.242,171.494l1.789,1.021v-3.392l-1.789-1.02Z" transform="translate(-5.365 -37.206)" fill="#f2b024"/>
+        <path id="Path_946740" data-name="Path 946740" d="M24.242,162.156l1.789,1.021v-5.054l-1.789-1.02Z" transform="translate(-5.365 -34.771)" fill="#eede6d"/>
+        <path id="Path_946741" data-name="Path 946741" d="M28.029,171.213l1.789,1.021V160.276l-1.789-1.02Z" transform="translate(-6.204 -35.248)" fill="#313247"/>
+        <path id="Path_946742" data-name="Path 946742" d="M28.029,162.647l1.789,1.021v-3.392l-1.789-1.02Z" transform="translate(-6.204 -35.248)" fill="#f2b024"/>
+        <path id="Path_946743" data-name="Path 946743" d="M28.029,173.175l1.789,1.021V169.14l-1.789-1.02Z" transform="translate(-6.204 -37.21)" fill="#eede6d"/>
+        <path id="Path_946744" data-name="Path 946744" d="M31.785,173.336l1.789,1.02V162.4l-1.789-1.021Z" transform="translate(-7.035 -35.718)" fill="#313247"/>
+        <path id="Path_946745" data-name="Path 946745" d="M31.785,175.771l1.789,1.02V173.4l-1.789-1.021Z" transform="translate(-7.035 -38.153)" fill="#f2b024"/>
+        <path id="Path_946746" data-name="Path 946746" d="M31.785,166.434l1.789,1.021V162.4l-1.789-1.02Z" transform="translate(-7.035 -35.718)" fill="#eede6d"/>
+        <path id="Path_946747" data-name="Path 946747" d="M6.94,147.286l-1.121-.639V158.6l23.606,13.462V170.3L6.94,157.482Z" transform="translate(-1.288 -32.457)" fill="#313247"/>
+        <path id="Path_946748" data-name="Path 946748" d="M1.134,97.741l61.837,36.044,61.5-34.99L62.182,62.488Z" transform="translate(-0.251 -13.83)" fill="#a4a3cd"/>
+        <path id="Path_946749" data-name="Path 946749" d="M1.134,128.1l61.837,36.044V143.806L1.134,107.762Z" transform="translate(-0.251 -23.851)" fill="#5b5c71"/>
+        <path id="Path_946750" data-name="Path 946750" d="M80.548,164.454l61.8-35.245V108.78l-61.8,35.25Z" transform="translate(-17.828 -24.076)" fill="#13121a"/>
+        <path id="Path_946751" data-name="Path 946751" d="M85.271,163.506l32.339-18.443V133.107L85.271,151.552Z" transform="translate(-18.873 -29.46)" fill="#313247"/>
+        <path id="Path_946752" data-name="Path 946752" d="M116.49,143.942l-31.218,17.8v1.761l32.339-18.443V133.107l-1.12.639Z" transform="translate(-18.873 -29.46)" fill="#5b5c71"/>
+        <path id="Path_946753" data-name="Path 946753" d="M87.915,158.845l1.763-1.005v-1.782l-1.763,1.007Z" transform="translate(-19.458 -34.54)" fill="#5ad5e4"/>
+        <path id="Path_946754" data-name="Path 946754" d="M87.915,162.175l1.763-1.005v-1.782l-1.763,1.006Z" transform="translate(-19.458 -35.277)" fill="#eede6d"/>
+        <path id="Path_946755" data-name="Path 946755" d="M87.915,165.505l1.763-1.006v-1.782l-1.763,1.005Z" transform="translate(-19.458 -36.014)" fill="#5ad5e4"/>
+        <path id="Path_946756" data-name="Path 946756" d="M91.138,157.034l1.764-1v-1.782l-1.764,1.005Z" transform="translate(-20.171 -34.139)" fill="#5ad5e4"/>
+        <path id="Path_946757" data-name="Path 946757" d="M91.138,160.364l1.764-1.005v-1.782l-1.764,1.005Z" transform="translate(-20.171 -34.876)" fill="#5ad5e4"/>
+        <path id="Path_946758" data-name="Path 946758" d="M91.138,163.693l1.764-1v-1.783l-1.764,1.006Z" transform="translate(-20.171 -35.613)" fill="#f2b024"/>
+        <path id="Path_946759" data-name="Path 946759" d="M94.36,155.223l1.764-1.006v-1.782l-1.764,1.006Z" transform="translate(-20.885 -33.738)" fill="#f2b024"/>
+        <path id="Path_946760" data-name="Path 946760" d="M94.36,158.553l1.764-1.005v-1.782l-1.764,1.006Z" transform="translate(-20.885 -34.476)" fill="#5ad5e4"/>
+        <path id="Path_946761" data-name="Path 946761" d="M94.36,161.882l1.764-1.005v-1.782L94.36,160.1Z" transform="translate(-20.885 -35.212)" fill="#5ad5e4"/>
+        <path id="Path_946762" data-name="Path 946762" d="M97.583,153.412l1.764-1.005v-1.782l-1.764,1Z" transform="translate(-21.598 -33.338)" fill="#eede6d"/>
+        <path id="Path_946763" data-name="Path 946763" d="M97.583,156.741l1.764-1v-1.782l-1.764,1.005Z" transform="translate(-21.598 -34.075)" fill="#5ad5e4"/>
+        <path id="Path_946764" data-name="Path 946764" d="M97.583,160.071l1.764-1.005v-1.782l-1.764,1.006Z" transform="translate(-21.598 -34.811)" fill="#f2b024"/>
+        <path id="Path_946765" data-name="Path 946765" d="M100.722,151.621l1.763-1.005v-1.782l-1.763,1.006Z" transform="translate(-22.293 -32.941)" fill="#5ad5e4"/>
+        <path id="Path_946766" data-name="Path 946766" d="M100.722,158.281l1.763-1.006v-1.782l-1.763,1.005Z" transform="translate(-22.293 -34.415)" fill="#5ad5e4"/>
+        <path id="Path_946767" data-name="Path 946767" d="M103.944,153.139l1.764-1.005v-1.782l-1.764,1.005Z" transform="translate(-23.006 -33.277)" fill="#5ad5e4"/>
+        <path id="Path_946768" data-name="Path 946768" d="M103.944,156.468l1.764-1v-1.783l-1.764,1.006Z" transform="translate(-23.006 -34.014)" fill="#f2b024"/>
+        <path id="Path_946769" data-name="Path 946769" d="M107.168,148l1.764-1.006v-1.782l-1.764,1.006Z" transform="translate(-23.719 -32.139)" fill="#f2b024"/>
+        <path id="Path_946770" data-name="Path 946770" d="M107.168,154.658l1.764-1.005V151.87l-1.764,1.006Z" transform="translate(-23.719 -33.613)" fill="#5ad5e4"/>
+        <path id="Path_946771" data-name="Path 946771" d="M110.39,149.517l1.764-1v-1.782l-1.764,1Z" transform="translate(-24.433 -32.476)" fill="#5ad5e4"/>
+        <path id="Path_946772" data-name="Path 946772" d="M5.819,128.741,29.425,142.2V130.249L5.819,116.785Z" transform="translate(-1.288 -25.848)" fill="#13121a"/>
+        <path id="Path_946773" data-name="Path 946773" d="M9.156,130.644l1.79,1.021V119.709l-1.79-1.021Z" transform="translate(-2.027 -26.269)" fill="#313247"/>
+        <path id="Path_946774" data-name="Path 946774" d="M9.156,133.079l1.79,1.021v-3.391l-1.79-1.021Z" transform="translate(-2.027 -28.704)" fill="#f2b024"/>
+        <path id="Path_946775" data-name="Path 946775" d="M9.156,123.742l1.79,1.021v-5.054l-1.79-1.02Z" transform="translate(-2.027 -26.269)" fill="#eede6d"/>
+        <path id="Path_946776" data-name="Path 946776" d="M12.944,132.8l1.789,1.021V121.861l-1.789-1.02Z" transform="translate(-2.865 -26.746)" fill="#313247"/>
+        <path id="Path_946777" data-name="Path 946777" d="M12.944,124.232l1.789,1.021v-3.392l-1.789-1.02Z" transform="translate(-2.865 -26.746)" fill="#f2b024"/>
+        <path id="Path_946778" data-name="Path 946778" d="M12.944,134.76l1.789,1.021v-5.054l-1.789-1.02Z" transform="translate(-2.865 -28.708)" fill="#eede6d"/>
+        <path id="Path_946779" data-name="Path 946779" d="M16.7,134.921l1.789,1.021V123.984l-1.789-1.02Z" transform="translate(-3.696 -27.216)" fill="#313247"/>
+        <path id="Path_946780" data-name="Path 946780" d="M16.7,137.355l1.789,1.021v-3.392l-1.789-1.02Z" transform="translate(-3.696 -29.65)" fill="#f2b024"/>
+        <path id="Path_946781" data-name="Path 946781" d="M16.7,128.018l1.789,1.021v-5.055l-1.789-1.02Z" transform="translate(-3.696 -27.216)" fill="#eede6d"/>
+        <path id="Path_946782" data-name="Path 946782" d="M20.486,137.074l1.789,1.021V126.139l-1.789-1.02Z" transform="translate(-4.534 -27.692)" fill="#313247"/>
+        <path id="Path_946783" data-name="Path 946783" d="M20.486,128.509l1.789,1.021v-3.391l-1.789-1.02Z" transform="translate(-4.534 -27.692)" fill="#f2b024"/>
+        <path id="Path_946784" data-name="Path 946784" d="M20.486,139.036l1.789,1.021V135l-1.789-1.02Z" transform="translate(-4.534 -29.654)" fill="#eede6d"/>
+        <path id="Path_946785" data-name="Path 946785" d="M24.242,139.2l1.789,1.021V128.262l-1.789-1.02Z" transform="translate(-5.365 -28.162)" fill="#313247"/>
+        <path id="Path_946786" data-name="Path 946786" d="M24.242,141.633l1.789,1.021v-3.392l-1.789-1.02Z" transform="translate(-5.365 -30.597)" fill="#f2b024"/>
+        <path id="Path_946787" data-name="Path 946787" d="M24.242,132.295l1.789,1.021v-5.054l-1.789-1.02Z" transform="translate(-5.365 -28.162)" fill="#eede6d"/>
+        <path id="Path_946788" data-name="Path 946788" d="M28.029,141.351l1.789,1.021V130.415l-1.789-1.02Z" transform="translate(-6.204 -28.639)" fill="#313247"/>
+        <path id="Path_946789" data-name="Path 946789" d="M28.029,132.785l1.789,1.021v-3.391l-1.789-1.02Z" transform="translate(-6.204 -28.639)" fill="#f2b024"/>
+        <path id="Path_946790" data-name="Path 946790" d="M28.029,143.313l1.789,1.021v-5.054l-1.789-1.02Z" transform="translate(-6.204 -30.601)" fill="#eede6d"/>
+        <path id="Path_946791" data-name="Path 946791" d="M31.785,143.474l1.789,1.021V132.538l-1.789-1.02Z" transform="translate(-7.035 -29.109)" fill="#313247"/>
+        <path id="Path_946792" data-name="Path 946792" d="M31.785,145.909l1.789,1.021v-3.392l-1.789-1.02Z" transform="translate(-7.035 -31.543)" fill="#f2b024"/>
+        <path id="Path_946793" data-name="Path 946793" d="M31.785,136.571l1.789,1.021v-5.054l-1.789-1.02Z" transform="translate(-7.035 -29.109)" fill="#eede6d"/>
+        <path id="Path_946794" data-name="Path 946794" d="M6.94,117.424l-1.121-.639v11.956L29.426,142.2v-1.761L6.94,127.62Z" transform="translate(-1.288 -25.848)" fill="#313247"/>
+        <path id="Path_946795" data-name="Path 946795" d="M1.134,66.5l61.837,36.044,61.5-34.99L62.182,31.243Z" transform="translate(-0.251 -6.915)" fill="#a4a3cd"/>
+        <path id="Path_946796" data-name="Path 946796" d="M1.134,96.855,62.971,132.9V112.563L1.134,76.519Z" transform="translate(-0.251 -16.936)" fill="#5b5c71"/>
+        <path id="Path_946797" data-name="Path 946797" d="M80.548,133.21l61.8-35.245V77.536l-61.8,35.252Z" transform="translate(-17.828 -17.161)" fill="#13121a"/>
+        <path id="Path_946798" data-name="Path 946798" d="M85.271,132.262,117.61,113.82V101.862L85.271,120.309Z" transform="translate(-18.873 -22.545)" fill="#313247"/>
+        <path id="Path_946799" data-name="Path 946799" d="M116.49,112.7,85.271,130.5v1.761L117.61,113.82V101.862l-1.12.64Z" transform="translate(-18.873 -22.545)" fill="#5b5c71"/>
+        <path id="Path_946800" data-name="Path 946800" d="M87.915,127.6l1.763-1.006v-1.782l-1.763,1.006Z" transform="translate(-19.458 -27.625)" fill="#5ad5e4"/>
+        <path id="Path_946801" data-name="Path 946801" d="M87.915,130.932l1.763-1.006v-1.782l-1.763,1.006Z" transform="translate(-19.458 -28.362)" fill="#eede6d"/>
+        <path id="Path_946802" data-name="Path 946802" d="M87.915,134.261l1.763-1.005v-1.782l-1.763,1.005Z" transform="translate(-19.458 -29.099)" fill="#5ad5e4"/>
+        <path id="Path_946803" data-name="Path 946803" d="M91.138,125.791l1.764-1.005V123l-1.764,1.005Z" transform="translate(-20.171 -27.224)" fill="#5ad5e4"/>
+        <path id="Path_946804" data-name="Path 946804" d="M91.138,129.121l1.764-1.005v-1.782l-1.764,1Z" transform="translate(-20.171 -27.961)" fill="#5ad5e4"/>
+        <path id="Path_946805" data-name="Path 946805" d="M91.138,132.45l1.764-1v-1.783l-1.764,1.006Z" transform="translate(-20.171 -28.698)" fill="#f2b024"/>
+        <path id="Path_946806" data-name="Path 946806" d="M94.36,123.98l1.764-1.006v-1.782L94.36,122.2Z" transform="translate(-20.885 -26.823)" fill="#f2b024"/>
+        <path id="Path_946807" data-name="Path 946807" d="M94.36,127.309l1.764-1.006v-1.781l-1.764,1.005Z" transform="translate(-20.885 -27.561)" fill="#5ad5e4"/>
+        <path id="Path_946808" data-name="Path 946808" d="M94.36,130.639l1.764-1.006v-1.782l-1.764,1.006Z" transform="translate(-20.885 -28.297)" fill="#5ad5e4"/>
+        <path id="Path_946809" data-name="Path 946809" d="M97.583,122.168l1.764-1v-1.782l-1.764,1Z" transform="translate(-21.598 -26.423)" fill="#eede6d"/>
+        <path id="Path_946810" data-name="Path 946810" d="M97.583,125.5l1.764-1.005v-1.782l-1.764,1.005Z" transform="translate(-21.598 -27.16)" fill="#5ad5e4"/>
+        <path id="Path_946811" data-name="Path 946811" d="M97.583,128.828l1.764-1.005V126.04l-1.764,1.005Z" transform="translate(-21.598 -27.896)" fill="#f2b024"/>
+        <path id="Path_946812" data-name="Path 946812" d="M100.722,120.378l1.763-1.006v-1.781l-1.763,1.005Z" transform="translate(-22.293 -26.026)" fill="#5ad5e4"/>
+        <path id="Path_946813" data-name="Path 946813" d="M100.722,127.037l1.763-1.005v-1.782l-1.763,1.005Z" transform="translate(-22.293 -27.5)" fill="#5ad5e4"/>
+        <path id="Path_946814" data-name="Path 946814" d="M103.944,121.9l1.764-1.005V119.11l-1.764,1Z" transform="translate(-23.006 -26.362)" fill="#5ad5e4"/>
+        <path id="Path_946815" data-name="Path 946815" d="M103.944,125.225l1.764-1v-1.783l-1.764,1.006Z" transform="translate(-23.006 -27.099)" fill="#f2b024"/>
+        <path id="Path_946816" data-name="Path 946816" d="M107.168,116.755l1.764-1.006v-1.782l-1.764,1.005Z" transform="translate(-23.719 -25.224)" fill="#f2b024"/>
+        <path id="Path_946817" data-name="Path 946817" d="M107.168,123.415l1.764-1.006v-1.782l-1.764,1.006Z" transform="translate(-23.719 -26.698)" fill="#5ad5e4"/>
+        <path id="Path_946818" data-name="Path 946818" d="M110.39,118.273l1.764-1.005v-1.782l-1.764,1.005Z" transform="translate(-24.433 -25.561)" fill="#5ad5e4"/>
+        <path id="Path_946819" data-name="Path 946819" d="M5.819,97.194l23.606,13.462V98.7L5.819,85.238Z" transform="translate(-1.288 -18.866)" fill="#13121a"/>
+        <path id="Path_946820" data-name="Path 946820" d="M9.156,99.1l1.79,1.021V88.161l-1.79-1.02Z" transform="translate(-2.027 -19.287)" fill="#313247"/>
+        <path id="Path_946821" data-name="Path 946821" d="M9.156,101.532l1.79,1.021V99.161l-1.79-1.02Z" transform="translate(-2.027 -21.722)" fill="#f2b024"/>
+        <path id="Path_946822" data-name="Path 946822" d="M9.156,92.2l1.79,1.021V88.161l-1.79-1.02Z" transform="translate(-2.027 -19.287)" fill="#eede6d"/>
+        <path id="Path_946823" data-name="Path 946823" d="M12.944,101.251l1.789,1.021V90.314l-1.789-1.02Z" transform="translate(-2.865 -19.763)" fill="#313247"/>
+        <path id="Path_946824" data-name="Path 946824" d="M12.944,92.686l1.789,1.021V90.314l-1.789-1.02Z" transform="translate(-2.865 -19.763)" fill="#f2b024"/>
+        <path id="Path_946825" data-name="Path 946825" d="M12.944,103.213l1.789,1.021V99.179l-1.789-1.02Z" transform="translate(-2.865 -21.726)" fill="#eede6d"/>
+        <path id="Path_946826" data-name="Path 946826" d="M16.7,103.374l1.789,1.021V92.438L16.7,91.417Z" transform="translate(-3.696 -20.233)" fill="#313247"/>
+        <path id="Path_946827" data-name="Path 946827" d="M16.7,105.809l1.789,1.021v-3.392l-1.789-1.02Z" transform="translate(-3.696 -22.668)" fill="#f2b024"/>
+        <path id="Path_946828" data-name="Path 946828" d="M16.7,96.472l1.789,1.02V92.437L16.7,91.417Z" transform="translate(-3.696 -20.233)" fill="#eede6d"/>
+        <path id="Path_946829" data-name="Path 946829" d="M20.486,105.527l1.789,1.021V94.591l-1.789-1.02Z" transform="translate(-4.534 -20.71)" fill="#313247"/>
+        <path id="Path_946830" data-name="Path 946830" d="M20.486,96.962l1.789,1.021V94.591l-1.789-1.02Z" transform="translate(-4.534 -20.71)" fill="#f2b024"/>
+        <path id="Path_946831" data-name="Path 946831" d="M20.486,107.489l1.789,1.021v-5.054l-1.789-1.02Z" transform="translate(-4.534 -22.672)" fill="#eede6d"/>
+        <path id="Path_946832" data-name="Path 946832" d="M24.242,107.651l1.789,1.021V96.715l-1.789-1.02Z" transform="translate(-5.365 -21.18)" fill="#313247"/>
+        <path id="Path_946833" data-name="Path 946833" d="M24.242,110.086l1.789,1.021v-3.392l-1.789-1.02Z" transform="translate(-5.365 -23.615)" fill="#f2b024"/>
+        <path id="Path_946834" data-name="Path 946834" d="M24.242,100.748l1.789,1.021V96.715l-1.789-1.02Z" transform="translate(-5.365 -21.18)" fill="#eede6d"/>
+        <path id="Path_946835" data-name="Path 946835" d="M28.029,109.8l1.789,1.021V98.867l-1.789-1.02Z" transform="translate(-6.204 -21.656)" fill="#313247"/>
+        <path id="Path_946836" data-name="Path 946836" d="M28.029,101.238l1.789,1.021V98.867l-1.789-1.02Z" transform="translate(-6.204 -21.656)" fill="#f2b024"/>
+        <path id="Path_946837" data-name="Path 946837" d="M28.029,111.766l1.789,1.021v-5.054l-1.789-1.02Z" transform="translate(-6.204 -23.619)" fill="#eede6d"/>
+        <path id="Path_946838" data-name="Path 946838" d="M31.785,111.927l1.789,1.021V100.991l-1.789-1.02Z" transform="translate(-7.035 -22.127)" fill="#313247"/>
+        <path id="Path_946839" data-name="Path 946839" d="M31.785,114.362l1.789,1.021v-3.391l-1.789-1.02Z" transform="translate(-7.035 -24.561)" fill="#f2b024"/>
+        <path id="Path_946840" data-name="Path 946840" d="M31.785,105.024l1.789,1.021v-5.054l-1.789-1.02Z" transform="translate(-7.035 -22.127)" fill="#eede6d"/>
+        <path id="Path_946841" data-name="Path 946841" d="M6.94,85.877,5.82,85.238V97.194l23.606,13.462V108.9L6.94,96.074Z" transform="translate(-1.288 -18.866)" fill="#313247"/>
+        <path id="Path_946842" data-name="Path 946842" d="M62.182,0,1.134,35.253,62.97,71.3l61.5-34.991Z" transform="translate(-0.251 0)" fill="#a4a3cd"/>
+        <path id="Path_946843" data-name="Path 946843" d="M1.134,65.612l61.837,36.044V81.319L1.134,45.275Z" transform="translate(-0.251 -10.021)" fill="#5b5c71"/>
+        <path id="Path_946844" data-name="Path 946844" d="M80.548,101.967l61.8-35.246V46.293l-61.8,35.251Z" transform="translate(-17.828 -10.246)" fill="#13121a"/>
+        <path id="Path_946845" data-name="Path 946845" d="M85.271,101.018,117.61,82.576V70.619L85.271,89.064Z" transform="translate(-18.873 -15.63)" fill="#313247"/>
+        <path id="Path_946846" data-name="Path 946846" d="M116.49,81.455l-31.218,17.8v1.761L117.61,82.576V70.619l-1.12.639Z" transform="translate(-18.873 -15.63)" fill="#5b5c71"/>
+        <path id="Path_946847" data-name="Path 946847" d="M5.819,66.091,29.425,79.552V67.6L5.819,54.134Z" transform="translate(-1.288 -11.982)" fill="#13121a"/>
+        <path id="Path_946848" data-name="Path 946848" d="M9.156,67.994l1.79,1.021V57.058l-1.79-1.02Z" transform="translate(-2.027 -12.403)" fill="#313247"/>
+        <path id="Path_946849" data-name="Path 946849" d="M9.156,70.429l1.79,1.021V68.058l-1.79-1.02Z" transform="translate(-2.027 -14.837)" fill="#f2b024"/>
+        <path id="Path_946850" data-name="Path 946850" d="M9.156,61.091l1.79,1.021V57.057l-1.79-1.02Z" transform="translate(-2.027 -12.403)" fill="#eede6d"/>
+        <path id="Path_946851" data-name="Path 946851" d="M12.944,70.147l1.789,1.021V59.211l-1.789-1.02Z" transform="translate(-2.865 -12.879)" fill="#313247"/>
+        <path id="Path_946852" data-name="Path 946852" d="M12.944,61.582,14.734,62.6V59.211l-1.789-1.02Z" transform="translate(-2.865 -12.879)" fill="#f2b024"/>
+        <path id="Path_946853" data-name="Path 946853" d="M12.944,72.109l1.789,1.021V68.076l-1.789-1.02Z" transform="translate(-2.865 -14.841)" fill="#eede6d"/>
+        <path id="Path_946854" data-name="Path 946854" d="M16.7,72.27l1.789,1.021V61.334L16.7,60.314Z" transform="translate(-3.696 -13.349)" fill="#313247"/>
+        <path id="Path_946855" data-name="Path 946855" d="M16.7,74.705l1.789,1.021V72.334L16.7,71.314Z" transform="translate(-3.696 -15.784)" fill="#f2b024"/>
+        <path id="Path_946856" data-name="Path 946856" d="M16.7,65.367l1.789,1.021V61.334L16.7,60.314Z" transform="translate(-3.696 -13.349)" fill="#eede6d"/>
+        <path id="Path_946857" data-name="Path 946857" d="M20.486,74.424l1.789,1.021V63.487l-1.789-1.02Z" transform="translate(-4.534 -13.826)" fill="#313247"/>
+        <path id="Path_946858" data-name="Path 946858" d="M20.486,65.858l1.789,1.021V63.487l-1.789-1.02Z" transform="translate(-4.534 -13.826)" fill="#f2b024"/>
+        <path id="Path_946859" data-name="Path 946859" d="M20.486,76.386l1.789,1.021V72.351l-1.789-1.02Z" transform="translate(-4.534 -15.788)" fill="#eede6d"/>
+        <path id="Path_946860" data-name="Path 946860" d="M24.242,76.547l1.789,1.021V65.611l-1.789-1.02Z" transform="translate(-5.365 -14.296)" fill="#313247"/>
+        <path id="Path_946861" data-name="Path 946861" d="M24.242,78.982,26.031,80V76.611l-1.789-1.02Z" transform="translate(-5.365 -16.731)" fill="#f2b024"/>
+        <path id="Path_946862" data-name="Path 946862" d="M24.242,69.645l1.789,1.021V65.611l-1.789-1.02Z" transform="translate(-5.365 -14.296)" fill="#eede6d"/>
+        <path id="Path_946863" data-name="Path 946863" d="M28.029,78.7l1.789,1.021V67.764l-1.789-1.02Z" transform="translate(-6.204 -14.772)" fill="#313247"/>
+        <path id="Path_946864" data-name="Path 946864" d="M28.029,70.135l1.789,1.021V67.764l-1.789-1.02Z" transform="translate(-6.204 -14.772)" fill="#f2b024"/>
+        <path id="Path_946865" data-name="Path 946865" d="M28.029,80.662l1.789,1.021V76.629l-1.789-1.02Z" transform="translate(-6.204 -16.734)" fill="#eede6d"/>
+        <path id="Path_946866" data-name="Path 946866" d="M31.785,80.823l1.789,1.021V69.888l-1.789-1.02Z" transform="translate(-7.035 -15.242)" fill="#313247"/>
+        <path id="Path_946867" data-name="Path 946867" d="M31.785,83.258l1.789,1.021V80.888l-1.789-1.02Z" transform="translate(-7.035 -17.677)" fill="#f2b024"/>
+        <path id="Path_946868" data-name="Path 946868" d="M31.785,73.921l1.789,1.021V69.887l-1.789-1.02Z" transform="translate(-7.035 -15.242)" fill="#eede6d"/>
+        <path id="Path_946869" data-name="Path 946869" d="M6.94,54.773,5.82,54.134V66.091L29.426,79.552v-1.76L6.94,64.97Z" transform="translate(-1.288 -11.981)" fill="#313247"/>
+        <path id="Path_946870" data-name="Path 946870" d="M87.915,96.359l1.763-1.006V93.571l-1.763,1.006Z" transform="translate(-19.458 -20.71)" fill="#5ad5e4"/>
+        <path id="Path_946871" data-name="Path 946871" d="M87.915,99.689l1.763-1.006V96.9l-1.763,1.005Z" transform="translate(-19.458 -21.447)" fill="#eede6d"/>
+        <path id="Path_946872" data-name="Path 946872" d="M87.915,103.018l1.763-1.006V100.23l-1.763,1.005Z" transform="translate(-19.458 -22.184)" fill="#5ad5e4"/>
+        <path id="Path_946873" data-name="Path 946873" d="M91.138,94.547l1.764-1V91.761l-1.764,1.005Z" transform="translate(-20.171 -20.309)" fill="#5ad5e4"/>
+        <path id="Path_946874" data-name="Path 946874" d="M91.138,97.877,92.9,96.872V95.091l-1.764,1Z" transform="translate(-20.171 -21.046)" fill="#5ad5e4"/>
+        <path id="Path_946875" data-name="Path 946875" d="M91.138,101.207,92.9,100.2V98.419l-1.764,1.005Z" transform="translate(-20.171 -21.783)" fill="#f2b024"/>
+        <path id="Path_946876" data-name="Path 946876" d="M94.36,92.736l1.764-1.005V89.948L94.36,90.954Z" transform="translate(-20.885 -19.908)" fill="#f2b024"/>
+        <path id="Path_946877" data-name="Path 946877" d="M94.36,96.066l1.764-1.006V93.278L94.36,94.284Z" transform="translate(-20.885 -20.645)" fill="#5ad5e4"/>
+        <path id="Path_946878" data-name="Path 946878" d="M94.36,99.4l1.764-1.006V96.608L94.36,97.614Z" transform="translate(-20.885 -21.382)" fill="#5ad5e4"/>
+        <path id="Path_946879" data-name="Path 946879" d="M97.583,90.925l1.764-1V88.138l-1.764,1.005Z" transform="translate(-21.598 -19.507)" fill="#eede6d"/>
+        <path id="Path_946880" data-name="Path 946880" d="M97.583,94.254l1.764-1V91.468l-1.764,1.005Z" transform="translate(-21.598 -20.245)" fill="#5ad5e4"/>
+        <path id="Path_946881" data-name="Path 946881" d="M97.583,97.584l1.764-1.005V94.8L97.583,95.8Z" transform="translate(-21.598 -20.981)" fill="#f2b024"/>
+        <path id="Path_946882" data-name="Path 946882" d="M100.722,89.134l1.763-1.006V86.347l-1.763,1.006Z" transform="translate(-22.293 -19.111)" fill="#5ad5e4"/>
+        <path id="Path_946883" data-name="Path 946883" d="M100.722,95.794l1.763-1.006V93.006l-1.763,1.005Z" transform="translate(-22.293 -20.585)" fill="#5ad5e4"/>
+        <path id="Path_946884" data-name="Path 946884" d="M103.944,90.652l1.764-1.005V87.866l-1.764,1Z" transform="translate(-23.006 -19.447)" fill="#5ad5e4"/>
+        <path id="Path_946885" data-name="Path 946885" d="M103.944,93.982l1.764-1.005V91.194L103.944,92.2Z" transform="translate(-23.006 -20.184)" fill="#f2b024"/>
+        <path id="Path_946886" data-name="Path 946886" d="M107.168,85.511l1.764-1.005V82.724l-1.764,1.006Z" transform="translate(-23.719 -18.309)" fill="#f2b024"/>
+        <path id="Path_946887" data-name="Path 946887" d="M107.168,92.172l1.764-1.006V89.384l-1.764,1.005Z" transform="translate(-23.719 -19.783)" fill="#5ad5e4"/>
+        <path id="Path_946888" data-name="Path 946888" d="M110.39,87.029l1.764-1V84.243l-1.764,1.005Z" transform="translate(-24.433 -18.646)" fill="#5ad5e4"/>
+        <path id="Path_946889" data-name="Path 946889" d="M19.742,31.856l47.344,27.6,47.086-26.789-47.69-27.8Z" transform="translate(-4.37 -1.077)" fill="#5b5c71"/>
+        <path id="Path_946890" data-name="Path 946890" d="M19.742,43.747l47.344,27.6V67.124l-47.344-27.6Z" transform="translate(-4.37 -8.749)" fill="#312f3a"/>
+        <path id="Path_946891" data-name="Path 946891" d="M80.543,71.582,127.86,44.6v-4.29L80.543,67.3Z" transform="translate(-17.827 -8.922)" fill="#13121a"/>
+        <g id="Group_1172435" data-name="Group 1172435">
+          <g id="Group_1172434" data-name="Group 1172434" clip-path="url(#clip-path-2)">
+            <path id="Path_946892" data-name="Path 946892" d="M93.814,19.521H82.937V27.7a5.885,5.885,0,0,0,3.186,4.441c4.285,2.387,11.136,2.453,15.384,0,2.123-1.226,3.186-2.834,3.186-4.442V19.521H93.814Z" transform="translate(-18.356 -4.321)" fill="#5ad5e4"/>
+            <path id="Path_946893" data-name="Path 946893" d="M99.7,11.983a16.56,16.56,0,0,0-5.779-.99,14.431,14.431,0,0,0-8.69,2.538,4.981,4.981,0,0,0-2.243,4.659C83.29,20.219,85.1,22,87.949,23.076a16.6,16.6,0,0,0,5.8,1.006c3.821,0,7.414-1.214,9.376-3.169A4.605,4.605,0,0,0,104.6,16.64C104.186,14.7,102.4,13,99.7,11.983" transform="translate(-18.356 -2.433)" fill="#fff"/>
+            <path id="Path_946894" data-name="Path 946894" d="M99.653,12.753c-4.456-1.68-10.581-1.089-13.858,1.456-3.487,2.711-2.437,6.569,2.557,8.453s11.571.9,14.5-2.018c2.756-2.745,1.254-6.211-3.2-7.891" transform="translate(-18.536 -2.613)" fill="#13121a"/>
+            <path id="Path_946895" data-name="Path 946895" d="M99.653,12.753c-4.456-1.68-10.581-1.089-13.858,1.456-2.732,2.123-2.678,4.952-.126,6.982-.554-1.46-.037-3.048,1.632-4.346,2.957-2.3,8.485-2.83,12.506-1.315,2.286.863,3.71,2.245,4.058,3.732,1.181-2.44-.477-5.1-4.212-6.51" transform="translate(-18.536 -2.613)" fill="#312f3a"/>
+          </g>
+        </g>
+        <g id="Group_1172437" data-name="Group 1172437" transform="translate(65.213 9.192)">
+          <g id="Group_1172436" data-name="Group 1172436" clip-path="url(#clip-path-4)">
+            <path id="Path_946896" data-name="Path 946896" d="M106.426,19.833c-1.731-1.472-6.328-.65-6.328-.65l-.38.633s4.454.017,6.842,2.634a1.7,1.7,0,0,0-.134-2.617" transform="translate(-87.284 -13.387)" fill="#a4a3cd"/>
+            <path id="Path_946897" data-name="Path 946897" d="M105.073,15.422c-1.613-.357-6.035,2.336-6.035,2.336l.241.81a13.614,13.614,0,0,1,7.678-1.133s.1-1.575-1.884-2.013" transform="translate(-87.133 -12.598)" fill="#a4a3cd"/>
+            <path id="Path_946898" data-name="Path 946898" d="M101.621,13.2c-1.8.28-3.327,3.115-3.327,3.115l.433.556a11.346,11.346,0,0,1,5.322-2.814,2.833,2.833,0,0,0-2.428-.857" transform="translate(-86.969 -12.106)" fill="#a4a3cd"/>
+            <path id="Path_946899" data-name="Path 946899" d="M89.662,13.564s-2.892.727-2.052,3.219c.737,2.181,5.011,2.284,5.758,1.683l-.16-.989s-3.186-1.349-3.546-3.913" transform="translate(-84.57 -12.194)" fill="#a4a3cd"/>
+            <path id="Path_946900" data-name="Path 946900" d="M93.811,13.174c-1.277,1.789.667,3.443,1.727,3.789l.874-.5a2.969,2.969,0,0,1,1.258-3.757s-2.726-1.118-3.859.469" transform="translate(-85.883 -11.92)" fill="#a4a3cd"/>
+            <path id="Path_946901" data-name="Path 946901" d="M84.543,19.15s-1.328,1.606,1.121,3.555c2.3,1.831,6.337-.7,8.083-2.25L92.6,19.8a14.228,14.228,0,0,1-8.058-.647" transform="translate(-83.845 -13.431)" fill="#a4a3cd"/>
+            <path id="Path_946902" data-name="Path 946902" d="M91.987,21.258a9.947,9.947,0,0,1-2.174.7c-1.393.174-3.628-.056-4.623-1.233a2.024,2.024,0,0,1-.565-1.552c-.027-.01-.055-.017-.083-.027,0,0-1.328,1.606,1.122,3.555,2.3,1.831,6.337-.7,8.083-2.25l-.026-.015a8.641,8.641,0,0,1-1.734.818" transform="translate(-83.845 -13.431)" fill="#8e8dbd"/>
+            <path id="Path_946903" data-name="Path 946903" d="M86.278,23.712s.685,1.893,3.745,2.624c2.873.688,4.521-3.24,5.026-5.469l-1.287-.105a24.478,24.478,0,0,1-7.484,2.95" transform="translate(-84.309 -13.787)" fill="#a4a3cd"/>
+            <path id="Path_946904" data-name="Path 946904" d="M87.077,24.567a1.987,1.987,0,0,1-.782-.847l-.016,0s.684,1.893,3.744,2.624c2.874.688,4.522-3.24,5.026-5.469l-.8-.065c-.427,1.351-3.143,5.865-7.172,3.754" transform="translate(-84.309 -13.799)" fill="#8e8dbd"/>
+            <path id="Path_946905" data-name="Path 946905" d="M97.235,20.585l-1.128.4s.352,1.281-3,4.111a4.746,4.746,0,0,0,3.707,2.13c2.354-.023,2.012-5.762.417-6.644" transform="translate(-85.821 -13.748)" fill="#a4a3cd"/>
+            <path id="Path_946906" data-name="Path 946906" d="M97.9,20.585l-.017.006c1.25,1.149,1.349,6.607-1.778,6.393a3.8,3.8,0,0,0,1.378.245c2.354-.023,2.012-5.762.417-6.644" transform="translate(-86.483 -13.748)" fill="#8e8dbd"/>
+            <path id="Path_946907" data-name="Path 946907" d="M99.277,20.081l-1.084.464a6.075,6.075,0,0,1,2.077,4.064,3.578,3.578,0,0,0,3.345.017c1.844-.918-1.463-3.467-4.338-4.545" transform="translate(-86.946 -13.637)" fill="#a4a3cd"/>
+          </g>
+        </g>
+        <g id="Group_1172439" data-name="Group 1172439">
+          <g id="Group_1172438" data-name="Group 1172438" clip-path="url(#clip-path-2)">
+            <path id="Path_946909" data-name="Path 946909" d="M98.091,19.643a4.185,4.185,0,0,1-3.78.189c-.575-.283-.856-.677-.843-1.073l-.031.637a1.3,1.3,0,0,0,.873,1.135,4.2,4.2,0,0,0,3.908-.271,1.206,1.206,0,0,0,.6-1.088l-.142-.537a1.1,1.1,0,0,1-.582,1.007" transform="translate(-20.68 -4.125)" fill="#f2b024"/>
+            <path id="Path_946910" data-name="Path 946910" d="M97.844,17.308a4.3,4.3,0,0,0-3.579.068c-1.063.58-1.068,1.529.055,2.084a4.185,4.185,0,0,0,3.78-.189c.882-.6.746-1.467-.255-1.962" transform="translate(-20.688 -3.752)" fill="#eede6d"/>
+            <path id="Path_946911" data-name="Path 946911" d="M97.558,17.722a3.106,3.106,0,0,0-2.58.047c-.768.419-.771,1.1.038,1.5a3.015,3.015,0,0,0,2.725-.136c.637-.434.539-1.057-.184-1.414" transform="translate(-20.895 -3.865)" fill="#54608a"/>
+            <path id="Path_946912" data-name="Path 946912" d="M97.558,17.722a3.106,3.106,0,0,0-2.58.047c-.647.354-.751.9-.283,1.3-.077-.294.1-.605.512-.832A2.878,2.878,0,0,1,97.6,18.19a1,1,0,0,1,.524.506c.135-.352-.065-.727-.565-.974" transform="translate(-20.895 -3.865)" fill="#676f93"/>
+            <path id="Path_946913" data-name="Path 946913" d="M61.051,19.521H50.174V27.7c0,1.607,1.062,3.215,3.186,4.442,4.249,2.453,11.1,2.387,15.384,0A5.886,5.886,0,0,0,71.931,27.7V19.521H61.051Z" transform="translate(-11.105 -4.321)" fill="#5ad5e4"/>
+            <path id="Path_946914" data-name="Path 946914" d="M69.641,13.531a14.431,14.431,0,0,0-8.69-2.538,16.56,16.56,0,0,0-5.779.99C52.47,13,50.682,14.7,50.265,16.64a4.607,4.607,0,0,0,1.48,4.273c1.962,1.955,5.556,3.169,9.376,3.169a16.6,16.6,0,0,0,5.8-1.006c2.849-1.076,4.659-2.857,4.965-4.886a4.982,4.982,0,0,0-2.243-4.658" transform="translate(-11.105 -2.433)" fill="#fff"/>
+            <path id="Path_946915" data-name="Path 946915" d="M69.432,14.21c-3.277-2.545-9.4-3.135-13.857-1.456s-5.959,5.147-3.2,7.892c2.933,2.92,9.509,3.9,14.5,2.018s6.045-5.743,2.556-8.453" transform="translate(-11.285 -2.613)" fill="#13121a"/>
+            <path id="Path_946916" data-name="Path 946916" d="M69.432,14.21c-3.277-2.545-9.4-3.135-13.857-1.456-3.735,1.408-5.393,4.071-4.212,6.51.348-1.487,1.771-2.869,4.057-3.732,4.022-1.515,9.55-.982,12.507,1.315,1.669,1.3,2.187,2.887,1.631,4.347,2.552-2.032,2.606-4.86-.126-6.983" transform="translate(-11.285 -2.613)" fill="#312f3a"/>
+          </g>
+        </g>
+        <g id="Group_1172441" data-name="Group 1172441" transform="translate(39.701 9.192)">
+          <g id="Group_1172440" data-name="Group 1172440" clip-path="url(#clip-path-6)">
+            <path id="Path_946917" data-name="Path 946917" d="M52.518,19.833a1.7,1.7,0,0,0-.135,2.617c2.39-2.617,6.843-2.634,6.843-2.634l-.38-.633s-4.6-.822-6.328.65" transform="translate(-51.168 -13.387)" fill="#a4a3cd"/>
+            <path id="Path_946918" data-name="Path 946918" d="M53.728,15.422c-1.981.438-1.884,2.013-1.884,2.013a13.614,13.614,0,0,1,7.678,1.133l.241-.81s-4.421-2.693-6.035-2.336" transform="translate(-51.175 -12.598)" fill="#a4a3cd"/>
+            <path id="Path_946919" data-name="Path 946919" d="M57.794,13.2a2.833,2.833,0,0,0-2.428.857,11.351,11.351,0,0,1,5.322,2.814l.433-.556s-1.532-2.834-3.327-3.115" transform="translate(-51.955 -12.106)" fill="#a4a3cd"/>
+            <path id="Path_946920" data-name="Path 946920" d="M69.709,13.564c-.361,2.564-3.547,3.913-3.547,3.913l-.16.989c.747.6,5.022.5,5.758-1.683.84-2.492-2.052-3.219-2.052-3.219" transform="translate(-54.309 -12.194)" fill="#a4a3cd"/>
+            <path id="Path_946921" data-name="Path 946921" d="M62.166,12.705a2.968,2.968,0,0,1,1.258,3.756l.874.5c1.061-.347,3-2,1.726-3.789-1.132-1.588-3.858-.469-3.858-.469" transform="translate(-53.46 -11.919)" fill="#a4a3cd"/>
+            <path id="Path_946922" data-name="Path 946922" d="M65.734,19.8l-1.147.658C66.334,22,70.369,24.536,72.67,22.7c2.449-1.948,1.122-3.555,1.122-3.555a14.228,14.228,0,0,1-8.058.647" transform="translate(-53.996 -13.431)" fill="#a4a3cd"/>
+            <path id="Path_946923" data-name="Path 946923" d="M73.708,19.178a2.018,2.018,0,0,1-.565,1.552c-.994,1.177-3.229,1.407-4.622,1.233a9.947,9.947,0,0,1-2.174-.7,8.621,8.621,0,0,1-1.734-.818l-.026.015c1.746,1.547,5.782,4.081,8.083,2.25,2.449-1.949,1.121-3.555,1.121-3.555l-.083.027" transform="translate(-53.996 -13.431)" fill="#8e8dbd"/>
+            <path id="Path_946924" data-name="Path 946924" d="M63.51,20.866c.5,2.23,2.152,6.158,5.026,5.47,3.059-.731,3.745-2.624,3.745-2.624a24.477,24.477,0,0,1-7.485-2.95Z" transform="translate(-53.757 -13.787)" fill="#a4a3cd"/>
+            <path id="Path_946925" data-name="Path 946925" d="M71.482,24.567c-4.03,2.111-6.745-2.4-7.172-3.754l-.8.065c.5,2.229,2.151,6.157,5.026,5.469,3.059-.731,3.744-2.624,3.744-2.624l-.016,0a1.987,1.987,0,0,1-.782.847" transform="translate(-53.757 -13.799)" fill="#8e8dbd"/>
+            <path id="Path_946926" data-name="Path 946926" d="M63.412,20.989l-1.128-.4c-1.6.881-1.937,6.621.417,6.644A4.75,4.75,0,0,0,66.408,25.1c-3.348-2.829-3-4.11-3-4.11" transform="translate(-53.204 -13.748)" fill="#a4a3cd"/>
+            <path id="Path_946927" data-name="Path 946927" d="M62.3,20.591l-.017-.006c-1.595.882-1.937,6.622.417,6.644a3.794,3.794,0,0,0,1.378-.245c-3.127.214-3.028-5.244-1.778-6.393" transform="translate(-53.204 -13.748)" fill="#8e8dbd"/>
+            <path id="Path_946928" data-name="Path 946928" d="M55.744,24.626a3.577,3.577,0,0,0,3.344-.017,6.075,6.075,0,0,1,2.077-4.064l-1.084-.464c-2.876,1.078-6.183,3.627-4.337,4.545" transform="translate(-51.92 -13.637)" fill="#a4a3cd"/>
+          </g>
+        </g>
+        <g id="Group_1172443" data-name="Group 1172443">
+          <g id="Group_1172442" data-name="Group 1172442" clip-path="url(#clip-path-2)">
+            <path id="Path_946930" data-name="Path 946930" d="M65.21,19.832a4.185,4.185,0,0,1-3.78-.189,1.1,1.1,0,0,1-.584-1.007l-.141.536a1.2,1.2,0,0,0,.6,1.089,4.205,4.205,0,0,0,3.91.27,1.3,1.3,0,0,0,.872-1.135l-.031-.636c.013.4-.268.79-.843,1.073" transform="translate(-13.434 -4.125)" fill="#f2b024"/>
+            <path id="Path_946931" data-name="Path 946931" d="M65.305,17.375a4.306,4.306,0,0,0-3.58-.068c-1,.5-1.138,1.359-.255,1.962a4.186,4.186,0,0,0,3.78.189c1.121-.554,1.116-1.5.054-2.084" transform="translate(-13.476 -3.752)" fill="#eede6d"/>
+            <path id="Path_946932" data-name="Path 946932" d="M65.005,17.769a3.1,3.1,0,0,0-2.58-.048c-.723.356-.821.979-.185,1.414a3.017,3.017,0,0,0,2.725.136c.809-.4.805-1.085.039-1.5" transform="translate(-13.682 -3.865)" fill="#54608a"/>
+            <path id="Path_946933" data-name="Path 946933" d="M65.005,17.769a3.1,3.1,0,0,0-2.58-.048c-.5.247-.7.621-.566.973a1,1,0,0,1,.525-.506,2.876,2.876,0,0,1,2.391.045c.416.227.589.537.511.832.47-.4.365-.944-.281-1.3" transform="translate(-13.682 -3.865)" fill="#676f93"/>
+            <path id="Path_946934" data-name="Path 946934" d="M93.814,38.309H82.937v8.178c0,1.607,1.062,3.215,3.186,4.442,4.248,2.452,11.1,2.387,15.384,0a5.885,5.885,0,0,0,3.186-4.442V38.309H93.814Z" transform="translate(-18.356 -8.479)" fill="#5ad5e4"/>
+            <path id="Path_946935" data-name="Path 946935" d="M102.4,32.319a14.436,14.436,0,0,0-8.692-2.539,16.562,16.562,0,0,0-5.779.99c-2.7,1.017-4.489,2.716-4.907,4.658A4.613,4.613,0,0,0,84.508,39.7c1.961,1.954,5.556,3.168,9.376,3.168a16.607,16.607,0,0,0,5.8-1.005c2.849-1.076,4.659-2.857,4.965-4.886a4.984,4.984,0,0,0-2.243-4.658" transform="translate(-18.356 -6.591)" fill="#fff"/>
+            <path id="Path_946936" data-name="Path 946936" d="M102.195,33c-3.277-2.546-9.4-3.136-13.857-1.456s-5.959,5.146-3.2,7.89c2.932,2.921,9.508,3.9,14.5,2.018s6.043-5.743,2.556-8.452" transform="translate(-18.536 -6.771)" fill="#13121a"/>
+            <path id="Path_946937" data-name="Path 946937" d="M102.2,33c-3.277-2.546-9.4-3.136-13.857-1.456-3.735,1.409-5.393,4.07-4.212,6.51.347-1.487,1.771-2.87,4.057-3.731,4.022-1.516,9.55-.983,12.506,1.314,1.67,1.3,2.187,2.886,1.632,4.346,2.552-2.032,2.606-4.859-.126-6.982" transform="translate(-18.536 -6.771)" fill="#312f3a"/>
+          </g>
+        </g>
+        <g id="Group_1172445" data-name="Group 1172445" transform="translate(65.213 23.822)">
+          <g id="Group_1172444" data-name="Group 1172444" clip-path="url(#clip-path-8)">
+            <path id="Path_946938" data-name="Path 946938" d="M85.281,38.621a1.7,1.7,0,0,0-.135,2.618c2.39-2.617,6.843-2.635,6.843-2.635l-.38-.633s-4.6-.822-6.328.65" transform="translate(-83.932 -32.175)" fill="#a4a3cd"/>
+            <path id="Path_946939" data-name="Path 946939" d="M86.491,34.21c-1.981.438-1.884,2.013-1.884,2.013a13.606,13.606,0,0,1,7.678,1.133l.241-.811S88.1,33.852,86.491,34.21" transform="translate(-83.939 -31.386)" fill="#a4a3cd"/>
+            <path id="Path_946940" data-name="Path 946940" d="M90.558,31.986a2.831,2.831,0,0,0-2.428.857,11.361,11.361,0,0,1,5.322,2.813l.433-.555s-1.532-2.834-3.327-3.115" transform="translate(-84.719 -30.894)" fill="#a4a3cd"/>
+            <path id="Path_946941" data-name="Path 946941" d="M102.472,32.351c-.361,2.565-3.547,3.913-3.547,3.913l-.16.99c.747.6,5.022.5,5.757-1.683.84-2.491-2.051-3.22-2.051-3.22" transform="translate(-87.073 -30.982)" fill="#a4a3cd"/>
+            <path id="Path_946942" data-name="Path 946942" d="M94.93,31.493a2.969,2.969,0,0,1,1.257,3.756l.874.5c1.061-.346,3-2,1.727-3.789-1.133-1.586-3.858-.469-3.858-.469" transform="translate(-86.224 -30.708)" fill="#a4a3cd"/>
+            <path id="Path_946943" data-name="Path 946943" d="M98.5,38.585l-1.147.66c1.747,1.546,5.782,4.08,8.083,2.249,2.449-1.948,1.122-3.554,1.122-3.554a14.218,14.218,0,0,1-8.058.646" transform="translate(-86.759 -32.219)" fill="#a4a3cd"/>
+            <path id="Path_946944" data-name="Path 946944" d="M106.471,37.966a2.025,2.025,0,0,1-.565,1.552c-1,1.177-3.23,1.406-4.624,1.233a9.856,9.856,0,0,1-2.173-.7,8.69,8.69,0,0,1-1.735-.818l-.025.015c1.746,1.546,5.782,4.081,8.083,2.25,2.449-1.949,1.122-3.555,1.122-3.555-.029.009-.056.017-.083.027" transform="translate(-86.759 -32.219)" fill="#8e8dbd"/>
+            <path id="Path_946945" data-name="Path 946945" d="M96.272,39.654c.505,2.23,2.153,6.158,5.027,5.47,3.059-.731,3.745-2.624,3.745-2.624a24.466,24.466,0,0,1-7.485-2.95Z" transform="translate(-86.521 -32.575)" fill="#a4a3cd"/>
+            <path id="Path_946946" data-name="Path 946946" d="M104.246,43.355c-4.03,2.111-6.745-2.4-7.172-3.754l-.8.065c.505,2.23,2.152,6.158,5.027,5.47,3.059-.731,3.744-2.624,3.744-2.624l-.016,0a1.992,1.992,0,0,1-.782.847" transform="translate(-86.521 -32.587)" fill="#8e8dbd"/>
+            <path id="Path_946947" data-name="Path 946947" d="M96.174,39.777l-1.129-.4c-1.595.882-1.937,6.622.417,6.645a4.748,4.748,0,0,0,3.707-2.132c-3.348-2.828-3-4.109-3-4.109" transform="translate(-85.968 -32.536)" fill="#a4a3cd"/>
+            <path id="Path_946948" data-name="Path 946948" d="M95.063,39.379l-.017-.006c-1.595.882-1.937,6.622.417,6.644a3.8,3.8,0,0,0,1.378-.245c-3.128.214-3.028-5.244-1.778-6.393" transform="translate(-85.968 -32.536)" fill="#8e8dbd"/>
+            <path id="Path_946949" data-name="Path 946949" d="M88.507,43.414a3.579,3.579,0,0,0,3.346-.018,6.079,6.079,0,0,1,2.076-4.064l-1.084-.463c-2.875,1.079-6.182,3.626-4.338,4.545" transform="translate(-84.684 -32.425)" fill="#a4a3cd"/>
+          </g>
+        </g>
+        <g id="Group_1172447" data-name="Group 1172447">
+          <g id="Group_1172446" data-name="Group 1172446" clip-path="url(#clip-path-2)">
+            <path id="Path_946951" data-name="Path 946951" d="M97.973,38.62a4.185,4.185,0,0,1-3.78-.189,1.1,1.1,0,0,1-.583-1.007l-.142.536a1.2,1.2,0,0,0,.6,1.088,4.2,4.2,0,0,0,3.909.272,1.3,1.3,0,0,0,.873-1.136l-.031-.636c.013.4-.269.789-.843,1.073" transform="translate(-20.686 -8.283)" fill="#f2b024"/>
+            <path id="Path_946952" data-name="Path 946952" d="M98.069,36.163A4.3,4.3,0,0,0,94.49,36.1c-1,.494-1.138,1.358-.255,1.961a4.185,4.185,0,0,0,3.78.189c1.122-.555,1.117-1.5.055-2.084" transform="translate(-20.727 -7.91)" fill="#eede6d"/>
+            <path id="Path_946953" data-name="Path 946953" d="M97.769,36.558a3.1,3.1,0,0,0-2.58-.047c-.723.356-.821.979-.185,1.414a3.018,3.018,0,0,0,2.725.136c.81-.4.806-1.084.04-1.5" transform="translate(-20.934 -8.024)" fill="#54608a"/>
+            <path id="Path_946954" data-name="Path 946954" d="M97.769,36.558a3.1,3.1,0,0,0-2.58-.047c-.5.247-.7.621-.566.973a1,1,0,0,1,.524-.506,2.875,2.875,0,0,1,2.392.045c.415.227.589.538.511.831.469-.4.365-.943-.281-1.3" transform="translate(-20.934 -8.024)" fill="#676f93"/>
+            <path id="Path_946955" data-name="Path 946955" d="M61.051,38.309H50.174v8.178a5.886,5.886,0,0,0,3.186,4.442c4.286,2.387,11.136,2.452,15.384,0,2.124-1.226,3.187-2.834,3.187-4.442V38.309H61.051Z" transform="translate(-11.105 -8.479)" fill="#5ad5e4"/>
+            <path id="Path_946956" data-name="Path 946956" d="M66.932,30.771a16.56,16.56,0,0,0-5.779-.99,14.431,14.431,0,0,0-8.69,2.538,4.983,4.983,0,0,0-2.243,4.659c.306,2.028,2.116,3.809,4.965,4.885a16.607,16.607,0,0,0,5.8,1.005c3.82,0,7.414-1.213,9.376-3.168a4.608,4.608,0,0,0,1.48-4.273c-.417-1.942-2.2-3.64-4.906-4.658" transform="translate(-11.105 -6.591)" fill="#fff"/>
+            <path id="Path_946957" data-name="Path 946957" d="M66.889,31.541C62.433,29.862,56.308,30.453,53.032,33c-3.487,2.709-2.437,6.568,2.556,8.453s11.571.9,14.5-2.019c2.756-2.744,1.254-6.211-3.2-7.891" transform="translate(-11.285 -6.771)" fill="#13121a"/>
+            <path id="Path_946958" data-name="Path 946958" d="M66.889,31.541C62.433,29.862,56.308,30.453,53.032,33c-2.732,2.123-2.679,4.951-.126,6.982-.555-1.46-.038-3.048,1.631-4.345,2.957-2.3,8.485-2.831,12.507-1.314,2.286.861,3.709,2.244,4.057,3.731,1.181-2.44-.477-5.1-4.212-6.51" transform="translate(-11.285 -6.771)" fill="#312f3a"/>
+          </g>
+        </g>
+        <g id="Group_1172449" data-name="Group 1172449" transform="translate(39.702 23.822)">
+          <g id="Group_1172448" data-name="Group 1172448" clip-path="url(#clip-path-10)">
+            <path id="Path_946959" data-name="Path 946959" d="M73.662,38.621c-1.731-1.472-6.328-.65-6.328-.65l-.38.633s4.454.018,6.843,2.635a1.7,1.7,0,0,0-.135-2.618" transform="translate(-54.52 -32.175)" fill="#a4a3cd"/>
+            <path id="Path_946960" data-name="Path 946960" d="M72.309,34.21c-1.613-.357-6.035,2.335-6.035,2.335l.241.811a13.606,13.606,0,0,1,7.678-1.133s.1-1.575-1.884-2.013" transform="translate(-54.37 -31.386)" fill="#a4a3cd"/>
+            <path id="Path_946961" data-name="Path 946961" d="M68.858,31.986c-1.795.28-3.327,3.115-3.327,3.115l.433.555a11.361,11.361,0,0,1,5.322-2.813,2.833,2.833,0,0,0-2.428-.857" transform="translate(-54.206 -30.894)" fill="#a4a3cd"/>
+            <path id="Path_946962" data-name="Path 946962" d="M56.9,32.351s-2.892.729-2.052,3.22c.737,2.181,5.012,2.284,5.758,1.683l-.16-.99s-3.186-1.348-3.547-3.913" transform="translate(-51.807 -30.982)" fill="#a4a3cd"/>
+            <path id="Path_946963" data-name="Path 946963" d="M61.047,31.962c-1.278,1.789.666,3.443,1.727,3.789l.874-.5a2.97,2.97,0,0,1,1.258-3.757s-2.726-1.118-3.858.469" transform="translate(-53.12 -30.708)" fill="#a4a3cd"/>
+            <path id="Path_946964" data-name="Path 946964" d="M51.779,37.939s-1.327,1.606,1.121,3.555c2.3,1.831,6.337-.7,8.083-2.25l-1.146-.659a14.214,14.214,0,0,1-8.058-.646" transform="translate(-51.082 -32.219)" fill="#a4a3cd"/>
+            <path id="Path_946965" data-name="Path 946965" d="M59.223,40.047a9.863,9.863,0,0,1-2.174.7c-1.393.174-3.628-.055-4.623-1.233a2.024,2.024,0,0,1-.565-1.552l-.083-.027s-1.327,1.606,1.122,3.555c2.3,1.831,6.337-.7,8.083-2.25l-.026-.015a8.663,8.663,0,0,1-1.734.818" transform="translate(-51.082 -32.219)" fill="#8e8dbd"/>
+            <path id="Path_946966" data-name="Path 946966" d="M53.514,42.5s.685,1.893,3.745,2.624c2.874.688,4.521-3.24,5.027-5.47L61,39.55a24.467,24.467,0,0,1-7.484,2.95" transform="translate(-51.546 -32.575)" fill="#a4a3cd"/>
+            <path id="Path_946967" data-name="Path 946967" d="M54.313,43.355a1.987,1.987,0,0,1-.782-.847l-.016,0s.685,1.893,3.744,2.624c2.875.688,4.522-3.24,5.027-5.47l-.8-.065c-.427,1.35-3.142,5.865-7.172,3.754" transform="translate(-51.546 -32.587)" fill="#8e8dbd"/>
+            <path id="Path_946968" data-name="Path 946968" d="M64.472,39.373l-1.13.4s.352,1.28-3,4.109a4.744,4.744,0,0,0,3.707,2.131c2.354-.023,2.012-5.762.418-6.644" transform="translate(-53.058 -32.536)" fill="#a4a3cd"/>
+            <path id="Path_946969" data-name="Path 946969" d="M65.134,39.373l-.018.006c1.25,1.149,1.349,6.607-1.779,6.393a3.8,3.8,0,0,0,1.379.245c2.354-.023,2.012-5.762.418-6.644" transform="translate(-53.72 -32.536)" fill="#8e8dbd"/>
+            <path id="Path_946970" data-name="Path 946970" d="M66.514,38.869l-1.085.463A6.078,6.078,0,0,1,67.506,43.4a3.578,3.578,0,0,0,3.345.018c1.845-.919-1.462-3.466-4.337-4.545" transform="translate(-54.183 -32.425)" fill="#a4a3cd"/>
+          </g>
+        </g>
+        <g id="Group_1172451" data-name="Group 1172451">
+          <g id="Group_1172450" data-name="Group 1172450" clip-path="url(#clip-path-2)">
+            <path id="Path_946972" data-name="Path 946972" d="M65.327,38.431a4.185,4.185,0,0,1-3.78.189c-.575-.284-.856-.677-.843-1.073l-.032.637a1.3,1.3,0,0,0,.873,1.136,4.206,4.206,0,0,0,3.909-.273,1.206,1.206,0,0,0,.6-1.087l-.142-.537a1.1,1.1,0,0,1-.583,1.007" transform="translate(-13.429 -8.283)" fill="#f2b024"/>
+            <path id="Path_946973" data-name="Path 946973" d="M65.08,36.1a4.3,4.3,0,0,0-3.579.067c-1.063.579-1.068,1.529.055,2.084a4.185,4.185,0,0,0,3.78-.189c.882-.6.746-1.467-.255-1.961" transform="translate(-13.437 -7.91)" fill="#eede6d"/>
+            <path id="Path_946974" data-name="Path 946974" d="M64.794,36.51a3.1,3.1,0,0,0-2.581.048c-.766.42-.77,1.1.039,1.5a3.015,3.015,0,0,0,2.725-.136c.637-.434.539-1.057-.184-1.414" transform="translate(-13.643 -8.024)" fill="#54608a"/>
+            <path id="Path_946975" data-name="Path 946975" d="M64.794,36.51a3.1,3.1,0,0,0-2.581.048c-.646.354-.75.9-.281,1.3-.077-.293.1-.605.511-.832a2.875,2.875,0,0,1,2.392-.044,1,1,0,0,1,.525.505c.135-.351-.065-.727-.566-.973" transform="translate(-13.643 -8.024)" fill="#676f93"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

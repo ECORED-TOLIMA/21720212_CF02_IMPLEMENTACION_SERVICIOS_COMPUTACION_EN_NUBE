@@ -15,288 +15,309 @@ export default {
     cuestionario: {
       tema: 'tema_actividad_didactica',
       titulo: 'Cuestionario',
-      introduccion: 'texto_introductorio_actividad_didactica',
+      introduccion:
+        'Lea cada enunciado referente a los temas desarrollados en el componente formativo y elija entre verdadero y falso según corresponda.',
       barajarPreguntas: true,
       preguntas: [
         {
           id: 1,
-          texto: 'texto_pregunta',
+          texto:
+            'IaaS permite a los usuarios gestionar infraestructura física sin preocuparse por el <em>hardware</em>.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'opcion_1', esCorrecta: true },
-            { id: 'b', texto: 'opcion_2', esCorrecta: false },
-            { id: 'c', texto: 'opcion_3', esCorrecta: false },
-            { id: 'c', texto: 'opcion_4', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos sobre servicios, plataformas, aplicaciones y tendencias en la nube, demostrando comprensión de su funcionamiento, ventajas, herramientas y procesos clave.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 2,
-          texto: 'texto_pregunta',
+          texto:
+            'PaaS ofrece únicamente almacenamiento en la nube sin herramientas de desarrollo.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'opcion_1', esCorrecta: true },
-            { id: 'b', texto: 'opcion_2', esCorrecta: false },
-            { id: 'c', texto: 'opcion_3', esCorrecta: false },
-            { id: 'c', texto: 'opcion_4', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos sobre servicios, plataformas, aplicaciones y tendencias en la nube, demostrando comprensión de su funcionamiento, ventajas, herramientas y procesos clave.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 3,
-          texto: 'texto_pregunta',
+          texto:
+            'SaaS entrega <em>software</em> directamente a los usuarios a través de Internet sin necesidad de instalación local.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'opcion_1', esCorrecta: true },
-            { id: 'b', texto: 'opcion_2', esCorrecta: false },
-            { id: 'c', texto: 'opcion_3', esCorrecta: false },
-            { id: 'c', texto: 'opcion_4', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos sobre servicios, plataformas, aplicaciones y tendencias en la nube, demostrando comprensión de su funcionamiento, ventajas, herramientas y procesos clave.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 4,
-          texto: 'texto_pregunta',
+          texto:
+            'Google Cloud se destaca principalmente por su integración con sistemas Windows y Microsoft 365.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'opcion_1', esCorrecta: true },
-            { id: 'b', texto: 'opcion_2', esCorrecta: false },
-            { id: 'c', texto: 'opcion_3', esCorrecta: false },
-            { id: 'c', texto: 'opcion_4', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos sobre servicios, plataformas, aplicaciones y tendencias en la nube, demostrando comprensión de su funcionamiento, ventajas, herramientas y procesos clave.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 5,
-          texto: 'texto_pregunta',
+          texto:
+            'Microsoft Azure ofrece un portal <em>web</em> para administrar recursos y servicios.',
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'opcion_1', esCorrecta: true },
-            { id: 'b', texto: 'opcion_2', esCorrecta: false },
-            { id: 'c', texto: 'opcion_3', esCorrecta: false },
-            { id: 'c', texto: 'opcion_4', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos sobre servicios, plataformas, aplicaciones y tendencias en la nube, demostrando comprensión de su funcionamiento, ventajas, herramientas y procesos clave.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 6,
-          texto: 'texto_pregunta',
+          texto:
+            'AWS es conocida por su limitada oferta de servicios en la nube.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'opcion_1', esCorrecta: true },
-            { id: 'b', texto: 'opcion_2', esCorrecta: false },
-            { id: 'c', texto: 'opcion_3', esCorrecta: false },
-            { id: 'c', texto: 'opcion_4', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos sobre servicios, plataformas, aplicaciones y tendencias en la nube, demostrando comprensión de su funcionamiento, ventajas, herramientas y procesos clave.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 7,
-          texto: 'texto_pregunta',
+          texto:
+            'Oracle Cloud Infrastructure tiene un enfoque robusto en bases de datos y seguridad empresarial.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'opcion_1', esCorrecta: true },
-            { id: 'b', texto: 'opcion_2', esCorrecta: false },
-            { id: 'c', texto: 'opcion_3', esCorrecta: false },
-            { id: 'c', texto: 'opcion_4', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos sobre servicios, plataformas, aplicaciones y tendencias en la nube, demostrando comprensión de su funcionamiento, ventajas, herramientas y procesos clave.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 8,
-          texto: 'texto_pregunta',
+          texto:
+            'Todas las plataformas en la nube requieren necesariamente instalar <em>software</em> local para operar.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'opcion_1', esCorrecta: true },
-            { id: 'b', texto: 'opcion_2', esCorrecta: false },
-            { id: 'c', texto: 'opcion_3', esCorrecta: false },
-            { id: 'c', texto: 'opcion_4', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos sobre servicios, plataformas, aplicaciones y tendencias en la nube, demostrando comprensión de su funcionamiento, ventajas, herramientas y procesos clave.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 9,
-          texto: 'texto_pregunta',
+          texto:
+            'El almacenamiento en la nube permite acceder a archivos desde cualquier dispositivo con Internet.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'opcion_1', esCorrecta: true },
-            { id: 'b', texto: 'opcion_2', esCorrecta: false },
-            { id: 'c', texto: 'opcion_3', esCorrecta: false },
-            { id: 'c', texto: 'opcion_4', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos sobre servicios, plataformas, aplicaciones y tendencias en la nube, demostrando comprensión de su funcionamiento, ventajas, herramientas y procesos clave.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 10,
-          texto: 'texto_pregunta',
+          texto:
+            'La colaboración en línea no permite editar documentos simultáneamente entre varios usuarios.',
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'opcion_1', esCorrecta: true },
-            { id: 'b', texto: 'opcion_2', esCorrecta: false },
-            { id: 'c', texto: 'opcion_3', esCorrecta: false },
-            { id: 'c', texto: 'opcion_4', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos sobre servicios, plataformas, aplicaciones y tendencias en la nube, demostrando comprensión de su funcionamiento, ventajas, herramientas y procesos clave.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 11,
-          texto: 'texto_pregunta',
+          texto:
+            'Google Workspace y Microsoft 365 facilitan productividad sin instalar programas en la computadora.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'opcion_1', esCorrecta: true },
-            { id: 'b', texto: 'opcion_2', esCorrecta: false },
-            { id: 'c', texto: 'opcion_3', esCorrecta: false },
-            { id: 'c', texto: 'opcion_4', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos sobre servicios, plataformas, aplicaciones y tendencias en la nube, demostrando comprensión de su funcionamiento, ventajas, herramientas y procesos clave.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 12,
-          texto: 'texto_pregunta',
+          texto:
+            'La sincronización de archivos garantiza que se trabaje siempre con la versión más reciente.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'opcion_1', esCorrecta: true },
-            { id: 'b', texto: 'opcion_2', esCorrecta: false },
-            { id: 'c', texto: 'opcion_3', esCorrecta: false },
-            { id: 'c', texto: 'opcion_4', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos sobre servicios, plataformas, aplicaciones y tendencias en la nube, demostrando comprensión de su funcionamiento, ventajas, herramientas y procesos clave.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 13,
-          texto: 'texto_pregunta',
+          texto:
+            'Las tecnologías nativas de la nube no utilizan microservicios ni contenedores.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'opcion_1', esCorrecta: true },
-            { id: 'b', texto: 'opcion_2', esCorrecta: false },
-            { id: 'c', texto: 'opcion_3', esCorrecta: false },
-            { id: 'c', texto: 'opcion_4', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos sobre servicios, plataformas, aplicaciones y tendencias en la nube, demostrando comprensión de su funcionamiento, ventajas, herramientas y procesos clave.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 14,
-          texto: 'texto_pregunta',
+          texto:
+            'Kubernetes es un orquestador que ayuda a gestionar contenedores automáticamente.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'opcion_1', esCorrecta: true },
-            { id: 'b', texto: 'opcion_2', esCorrecta: false },
-            { id: 'c', texto: 'opcion_3', esCorrecta: false },
-            { id: 'c', texto: 'opcion_4', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos sobre servicios, plataformas, aplicaciones y tendencias en la nube, demostrando comprensión de su funcionamiento, ventajas, herramientas y procesos clave.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 15,
-          texto: 'texto_pregunta',
+          texto:
+            'La automatización en la nube reduce la intervención humana en tareas repetitivas y optimiza tiempos.',
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'opcion_1', esCorrecta: true },
-            { id: 'b', texto: 'opcion_2', esCorrecta: false },
-            { id: 'c', texto: 'opcion_3', esCorrecta: false },
-            { id: 'c', texto: 'opcion_4', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos sobre servicios, plataformas, aplicaciones y tendencias en la nube, demostrando comprensión de su funcionamiento, ventajas, herramientas y procesos clave.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 16,
-          texto: 'texto_pregunta',
+          texto:
+            'Zapier, Make y Power Automate solo funcionan con aplicaciones de escritorio y no con servicios en línea.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'opcion_1', esCorrecta: true },
-            { id: 'b', texto: 'opcion_2', esCorrecta: false },
-            { id: 'c', texto: 'opcion_3', esCorrecta: false },
-            { id: 'c', texto: 'opcion_4', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos sobre servicios, plataformas, aplicaciones y tendencias en la nube, demostrando comprensión de su funcionamiento, ventajas, herramientas y procesos clave.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 17,
-          texto: 'texto_pregunta',
+          texto:
+            'La seguridad en la nube incluye cifrado de datos, autenticación multifactor y backups automáticos.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'opcion_1', esCorrecta: true },
-            { id: 'b', texto: 'opcion_2', esCorrecta: false },
-            { id: 'c', texto: 'opcion_3', esCorrecta: false },
-            { id: 'c', texto: 'opcion_4', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos sobre servicios, plataformas, aplicaciones y tendencias en la nube, demostrando comprensión de su funcionamiento, ventajas, herramientas y procesos clave.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 18,
-          texto: 'texto_pregunta',
+          texto:
+            'Cumplir con normas internacionales en la nube no es relevante para proteger datos sensibles.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'opcion_1', esCorrecta: true },
-            { id: 'b', texto: 'opcion_2', esCorrecta: false },
-            { id: 'c', texto: 'opcion_3', esCorrecta: false },
-            { id: 'c', texto: 'opcion_4', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos sobre servicios, plataformas, aplicaciones y tendencias en la nube, demostrando comprensión de su funcionamiento, ventajas, herramientas y procesos clave.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 19,
-          texto: 'texto_pregunta',
+          texto:
+            'La inteligencia artificial integrada en la nube puede anticipar problemas y optimizar recursos.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'opcion_1', esCorrecta: true },
-            { id: 'b', texto: 'opcion_2', esCorrecta: false },
-            { id: 'c', texto: 'opcion_3', esCorrecta: false },
-            { id: 'c', texto: 'opcion_4', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos sobre servicios, plataformas, aplicaciones y tendencias en la nube, demostrando comprensión de su funcionamiento, ventajas, herramientas y procesos clave.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 20,
-          texto: 'texto_pregunta',
+          texto:
+            'Las plataformas en la nube no ofrecen tutoriales ni laboratorios de práctica para usuarios.',
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'opcion_1', esCorrecta: true },
-            { id: 'b', texto: 'opcion_2', esCorrecta: false },
-            { id: 'c', texto: 'opcion_3', esCorrecta: false },
-            { id: 'c', texto: 'opcion_4', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos sobre servicios, plataformas, aplicaciones y tendencias en la nube, demostrando comprensión de su funcionamiento, ventajas, herramientas y procesos clave.',
+          mensaje_incorrecto:
+            'Revise nuevamente el contenido del componente formativo.',
         },
       ],
       mensaje_final_aprobado:
