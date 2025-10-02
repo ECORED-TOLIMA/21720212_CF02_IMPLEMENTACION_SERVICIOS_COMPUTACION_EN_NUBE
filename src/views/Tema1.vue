@@ -19,28 +19,28 @@
 
     p.mb-5(data-aos="fade-down") Los servicios en la nube se dividen principalmente en tres modelos:
 
-    .row.justify-content-center.mb-5
-      .col-lg-4.col-md-6.col-12.mb-4
+    .row.justify-content-center.mb-0
+      .col-lg-4.col-md-6.col-12.mb-5
         .card.h-100
           figure.text-center
             img(data-aos="fade-up")(src='@/assets/curso/temas/tema1/img02.png', alt='Imagen decorativa')
           .cajon.cajon--C02
             h4(data-aos="fade-down").text-center.p-3.mb-0 Infraestructura como Servicio (IaaS)
-      .col-lg-4.col-md-6.col-12.mb-4
+      .col-lg-4.col-md-6.col-12.mb-5
         .card.h-100
           figure.text-center
             img(data-aos="fade-up")(src='@/assets/curso/temas/tema1/img03.png', alt='Imagen decorativa')
           .cajon.cajon--C02
             h4(data-aos="fade-down").text-center.p-3.mb-0 Plataforma como Servicio (PaaS)
-      .col-lg-4.col-md-6.col-12.mb-4
+      .col-lg-4.col-md-6.col-12.mb-5
         .card.h-100
           figure.text-center
             img(data-aos="fade-up")(src='@/assets/curso/temas/tema1/img04.png', alt='Imagen decorativa')
           .cajon.cajon--C02
-            h4(data-aos="fade-down").text-center.p-3.mb-0 <em>Software</em> como Servicio (SaaS)
+            h4(data-aos="fade-down").text-center.p-3.mb-0 Software como Servicio (SaaS)
     
     .row.justify-content-center.mb-4(data-aos="flip-up")
-      .col-lg-10.mb-3
+      .col-lg-10
         p(data-aos="fade-down") Cada modelo responde a diferentes necesidades y ofrece distintos niveles de control al usuario.
         p.mb-5(data-aos="fade-down") Para comprender esta diferencia, resulta útil la analogía con una vivienda:
         .tarjeta-avatar-b
@@ -54,7 +54,7 @@
 
     separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-    h2 1.1 Infraestructura como Servicio (IaaS)
+      h2 1.1 Infraestructura como Servicio (IaaS)
 
     .row.justify-content-center.mb-5
       .col-12
@@ -95,7 +95,7 @@
           .bottomCircle01.mb-5
             figure
               img(src="@/assets/curso/temas/tema1/img10.svg", alt="alt").img80.m-auto
-          p.mb-0 Flexibilidad para instalar cualquier sistema operativo o <em>software</em> según los objetivos del usuario.
+          p.mb-0 Flexibilidad para instalar cualquier sistema operativo o software según los objetivos del usuario.
       .col-xl-3.col-lg-8.mb-4.mb-xl-5
         .crd01.crd--grayGrad(data-aos="flip-left")
           .bottomCircle01.mb-5
@@ -167,7 +167,7 @@
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-    h2 1.2 Plataforma como Servicio (PaaS)
+      h2 1.2 Plataforma como Servicio (PaaS)
 
     p(data-aos="fade-down") La Plataforma como Servicio (PaaS) es un modelo de computación en la nube que va un paso más allá de IaaS. No solo entrega la infraestructura, sino que además incluye un conjunto de herramientas y servicios listos para que los usuarios creen, prueben y desplieguen aplicaciones sin tener que instalar y configurar entornos complejos.
     p(data-aos="fade-down") Se puede entender con la siguiente analogía: es como recibir un edificio ya construido, con paredes, instalaciones eléctricas y conexiones listas. El usuario solo debe enfocarse en diseñar y decorar su espacio, en lugar de preocuparse por levantar la estructura desde cero.
@@ -180,16 +180,16 @@
             ul.lista-ul--color.mb-0(data-aos="fade-down")
               li.mb-4
                 i.fas.fa-cloud
-                | Incluye infraestructura (servidores, almacenamiento y redes) y también herramientas de desarrollo.
+                p.mb-0 Incluye infraestructura (servidores, almacenamiento y redes) y también herramientas de desarrollo.
               li.mb-4
                 i.fas.fa-cloud
-                | Ofrece entornos preconfigurados con bases de datos, sistemas operativos, servidores <em>web</em> y marcos de programación.
+                p.mb-0 Ofrece entornos preconfigurados con bases de datos, sistemas operativos, servidores <em>web</em> y marcos de programación.
               li.mb-4
                 i.fas.fa-cloud
-                | Permite a los desarrolladores concentrarse en el diseño y las funcionalidades de las aplicaciones, sin perder tiempo en la administración de <em>hardware</em> o <em>software</em> base.
+                p.mb-0 Permite a los desarrolladores concentrarse en el diseño y las funcionalidades de las aplicaciones, sin perder tiempo en la administración de <em>hardware</em> o software base.
               li.mb-0
                 i.fas.fa-cloud
-                | Proporciona escalabilidad automática, ajustando los recursos según las necesidades del proyecto.
+                p.mb-0 Proporciona escalabilidad automática, ajustando los recursos según las necesidades del proyecto.
       .col-lg-3.col-md-6.col-8.mb-3.order-lg-2.order-1.mb-lg-0
         .row.justify-content-center
           .col
@@ -266,7 +266,7 @@
     
     .row.justify-content-center.mb-0
       .col-lg-10.col-12
-        p.mb-5(data-aos="fade-down") En el ámbito educativo, PaaS ofrece a los aprendices un espacio práctico para experimentar en el desarrollo de <em>software</em>, sin necesidad de gestionar servidores o sistemas operativos. Por ejemplo:
+        p.mb-5(data-aos="fade-down") En el ámbito educativo, PaaS ofrece a los aprendices un espacio práctico para experimentar en el desarrollo de software, sin necesidad de gestionar servidores o sistemas operativos. Por ejemplo:
 
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
@@ -281,7 +281,7 @@
 
     separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-    h2 1.3 <em>Software</em> como Servicio (SaaS)
+      h2 1.3 Software como Servicio (SaaS)
 
     .row.justify-content-center.mb-5
       .col-lg-8.col-12.order-lg-1.order-2
@@ -292,16 +292,16 @@
           ul.lista-ul--color.mb-0(data-aos="fade-down")
             li.mb-4
               i.fas.fa-cloud
-              | Aplicaciones accesibles desde navegadores <em>web</em> o dispositivos móviles.
+              p.mb-0 Aplicaciones accesibles desde navegadores <em>web</em> o dispositivos móviles.
             li.mb-4
               i.fas.fa-cloud
-              | Administración, mantenimiento y actualizaciones a cargo del proveedor.
+              p.mb-0 Administración, mantenimiento y actualizaciones a cargo del proveedor.
             li.mb-4
               i.fas.fa-cloud
-              | Acceso multiplataforma, lo que permite trabajar desde cualquier lugar con conexión.
+              p.mb-0 Acceso multiplataforma, lo que permite trabajar desde cualquier lugar con conexión.
             li.mb-0
               i.fas.fa-cloud
-              | Funcionalidades colaborativas, que facilitan compartir información en tiempo real.
+              p.mb-0 Funcionalidades colaborativas, que facilitan compartir información en tiempo real.
       .col-lg-4.col-md-6.col-8.mb-3.order-lg-2.order-1.mb-lg-0
         .row.justify-content-center
           .col
@@ -348,7 +348,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-3.col-md-8.col-12.mb-3
-        .tarjeta.tarjeta--C03.p-3.h-100
+        .tarjeta.tarjeta--C02.p-3.h-100
           .row
             .col-lg-auto.col-2.mb-3
               figure(data-aos="flip-up")
@@ -356,7 +356,7 @@
             .col-lg-12
               p.mb-0(data-aos="fade-down") Dependencia total del proveedor, si el servicio presenta fallas, el usuario no puede acceder a sus datos o aplicaciones.
       .col-lg-3.col-md-8.col-12.mb-3
-        .tarjeta.tarjeta--C03.p-4.h-100
+        .tarjeta.tarjeta--C02.p-4.h-100
           .row
             .col-lg-auto.col-2.mb-3
               figure(data-aos="flip-up")
@@ -364,7 +364,7 @@
             .col-lg-12
               p.mb-0(data-aos="fade-down") Menor personalización, ya que se ajusta al diseño estándar del proveedor.
       .col-lg-3.col-md-8.col-12.mb-3
-        .tarjeta.tarjeta--C03.p-4.h-100
+        .tarjeta.tarjeta--C02.p-4.h-100
           .row
             .col-lg-auto.col-2.mb-3
               figure(data-aos="flip-up")
@@ -414,7 +414,7 @@
 
     separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-    h2 1.4 Comparación entre IaaS, PaaS y SaaS
+      h2 1.4 Comparación entre IaaS, PaaS y SaaS
 
     p.mb-5(data-aos="fade-down") Los tres modelos de servicios en la nube representan diferentes niveles de control, responsabilidad y facilidad de uso:
 
@@ -444,8 +444,8 @@
                   figure
                     img(data-aos="fade-up")(src='@/assets/curso/temas/tema1/img41.svg', alt='Imagen decorativa')
                 .col-lg-10.col-10
-                  h4(data-aos="fade-down") SaaS (<em>Software</em> como Servicio)
-                  p.mb-0(data-aos="fade-down") Es el modelo más accesible. El <em>software</em> está completamente listo para usar desde cualquier dispositivo con Internet. El proveedor gestiona todo, y el usuario solo debe registrarse o pagar una suscripción.
+                  h4(data-aos="fade-down") SaaS (Software como Servicio)
+                  p.mb-0(data-aos="fade-down") Es el modelo más accesible. El software está completamente listo para usar desde cualquier dispositivo con Internet. El proveedor gestiona todo, y el usuario solo debe registrarse o pagar una suscripción.
                 
           .col-lg-4.col-md-7.col-8.mb-3.order-lg-1.order-1.mb-lg-0
             .row.justify-content-center
@@ -455,7 +455,7 @@
 
     p.mb-5(data-aos="fade-down") Esto puede ser representado como una pirámide:
 
-    .row.justify-content-center.mb-0(data-aos="flip-up")
+    .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
           h5 Figura 1.
@@ -501,7 +501,7 @@
                 td.text-bold(data-aos="fade-down")(style="background-color: #F6F6F6") SaaS
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Accesible desde cualquier dispositivo, mantenimiento a cargo del proveedor.
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Dependencia total del proveedor, poca personalización.
-                td(data-aos="fade-down")(style="background-color: #F6F6F6") El <em>software</em> ya está listo para usarse en la nube.
+                td(data-aos="fade-down")(style="background-color: #F6F6F6") El software ya está listo para usarse en la nube.
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Gmail, Google Drive y Microsoft 365.
     
     .row.justify-content-center.mb-5
@@ -528,7 +528,7 @@
                   figure
                     img(data-aos="fade-up")(src='@/assets/curso/temas/tema1/img41.svg', alt='Imagen decorativa')
                 .col-lg-10.col-10
-                  p.mb-0(data-aos="fade-down") En el modelo SaaS, toda la gestión recae en el proveedor. El usuario simplemente accede y utiliza el <em>software</em>, sin necesidad de instalar, configurar o mantener nada. Esta opción ofrece la mayor comodidad, aunque limita las posibilidades de personalización.
+                  p.mb-0(data-aos="fade-down") En el modelo SaaS, toda la gestión recae en el proveedor. El usuario simplemente accede y utiliza el software, sin necesidad de instalar, configurar o mantener nada. Esta opción ofrece la mayor comodidad, aunque limita las posibilidades de personalización.
                 
           .col-lg-4.col-md-7.col-8.mb-3.order-lg-1.order-1.mb-lg-0
             .row.justify-content-center

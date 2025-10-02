@@ -2,16 +2,19 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 55%
+    right: 80%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float2 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
-
+    top: 30%
+    right: 5%
 @keyframes float1
+  0%
+    transform: translateY(20px)
+  100%
+    transform: translateY(0px)
+@keyframes float2
   0%
     transform: translateY(20px)
   100%
@@ -62,13 +65,21 @@
   margin-inline: -3rem !important
   @media (max-width: $bp-max-sm)
     margin-inline: -1.5rem !important
+.tarjeta--BG06
+  background-image: url("../assets/curso/temas/BG06.png")
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
 
 .BG04
   background: linear-gradient(to right, #BCC3DE 25%, #EFE5FF 12%)
   @media (max-width: $bp-max-sm)
     background: linear-gradient(to bottom, #BCC3DE 43%, #EFE5FF 12%)
 .BG06
-  background: linear-gradient(to right, #00BDFF 26%, #EFE5FF 12%)
+  background: linear-gradient(to right, #00BDFF 18%, #EFE5FF 12%)
   @media (max-width: $bp-max-sm)
     background: linear-gradient(to bottom, #00BDFF 43%, #EFE5FF 12%)
 
@@ -126,7 +137,7 @@
       background-position: center
       .bottomCircle01
         &::before
-          background-color: #4EFD83
+          background-color: #00BDFF
   &.crd--blue
     background-color: #B1DBEA
 
@@ -146,11 +157,15 @@
     transform: translate(-50%,-50%)
     width: 115px
     height: 115px
-    background-color: #00BDFF
+    background-color: #4EFD83
 
 //- Modulo listas 
 .lista-ul li, ol.lista-ol li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li
   display: flex
+li 
+  .lista-ol--cuadro__vineta
+    span
+      color: $black
 
 // Modulo versión escritorio/movil
 @media (min-width: 992px)

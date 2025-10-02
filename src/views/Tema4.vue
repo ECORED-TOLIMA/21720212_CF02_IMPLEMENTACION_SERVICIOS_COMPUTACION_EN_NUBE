@@ -28,7 +28,7 @@
 
     separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-    h2 4.1 Tecnologías nativas de la nube
+      h2 4.1 Tecnologías nativas de la nube
 
     p(data-aos="fade-down") Las tecnologías nativas de la nube se caracterizan por estar diseñadas desde cero para operar en ambientes <em>cloud</em>. A diferencia de los sistemas tradicionales que se adaptan a la nube, estas tecnologías aprovechan plenamente sus capacidades de escalabilidad, flexibilidad y automatización.
     p.mb-5(data-aos="fade-down") Entre sus componentes principales se encuentran:
@@ -121,15 +121,15 @@
 
     separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-    h2 4.2 Automatización para la optimización de tiempos
+      h2 4.2 Automatización para la optimización de tiempos
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-12.mb-3
         .row.justify-content-center.tarjeta.BG06.p-4
-          .col-lg-3.col-6
+          .col-lg-2.col-6
             figure
               img(data-aos="fade-right")(src='@/assets/curso/temas/tema4/img09.svg' alt='AvatarTop')
-          .col-lg-9
+          .col-lg-10
             p(data-aos="fade-down") La automatización representa una de las tendencias más significativas en la computación en la nube, pues permite reducir la intervención humana en tareas rutinarias, optimizar tiempos y minimizar errores. Su aplicación se extiende desde la educación y la productividad personal hasta los entornos empresariales más complejos.
             p.mb-0(data-aos="fade-down") Proceso general para implementar la automatización:
     
@@ -139,27 +139,47 @@
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-5
               img(src='@/assets/curso/temas/tema4/img10.svg' alt='AvatarTop')
-          p Identificación de procesos repetitivos: se seleccionan actividades que consumen tiempo y se repiten constantemente, como envío de correos, carga de archivos o recordatorios de tareas.
+          ol.lista-ol--cuadro.lista-ol
+            li 
+              .lista-ol--cuadro__vineta
+                span.text-bold 1
+              p.mb-0 <b>Identificación de procesos repetitivos</b>: se seleccionan actividades que consumen tiempo y se repiten constantemente, como envío de correos, carga de archivos o recordatorios de tareas.
         .tarjeta.tarjeta--BG03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-5
               img(src='@/assets/curso/temas/tema4/img11.svg' alt='AvatarTop')
-          p Selección de la herramienta adecuada: se evalúan opciones como Zapier, Make, Power Automate, Asana, Wrike, entre otras, según el ecosistema tecnológico y el nivel de complejidad requerido.
+          ol.lista-ol--cuadro.lista-ol
+            li 
+              .lista-ol--cuadro__vineta
+                span.text-bold 2
+              p.mb-0 <b>Selección de la herramienta adecuada</b>: se evalúan opciones como Zapier, Make, Power Automate, Asana, Wrike, entre otras, según el ecosistema tecnológico y el nivel de complejidad requerido.
         .tarjeta.tarjeta--BG03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-5
               img(src='@/assets/curso/temas/tema4/img12.svg' alt='AvatarTop')
-          p Diseño del flujo de trabajo: se establecen condiciones (ejemplo: “si recibo un correo con adjunto, entonces guardarlo en la nube y notificar”) que determinan cómo funcionará la automatización.
+          ol.lista-ol--cuadro.lista-ol
+            li 
+              .lista-ol--cuadro__vineta
+                span.text-bold 3
+              p.mb-0 <b>Diseño del flujo de trabajo</b>: se establecen condiciones (ejemplo: “si recibo un correo con adjunto, entonces guardarlo en la nube y notificar”) que determinan cómo funcionará la automatización.
         .tarjeta.tarjeta--BG03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-5
               img(src='@/assets/curso/temas/tema4/img13.svg' alt='AvatarTop')
-          p Prueba y ajuste: se verifican los resultados, corrigiendo errores en la integración de aplicaciones o en los disparadores configurados.
+          ol.lista-ol--cuadro.lista-ol
+            li 
+              .lista-ol--cuadro__vineta
+                span.text-bold 4
+              p.mb-0 <b>Prueba y ajuste</b>: se verifican los resultados, corrigiendo errores en la integración de aplicaciones o en los disparadores configurados.
         .tarjeta.tarjeta--BG03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-5
               img(src='@/assets/curso/temas/tema4/img14.svg' alt='AvatarTop')
-          p Monitoreo y mejora continua: se evalúan indicadores de ahorro de tiempo, reducción de errores y satisfacción de usuarios para escalar las automatizaciones a otros procesos.
+          ol.lista-ol--cuadro.lista-ol
+            li 
+              .lista-ol--cuadro__vineta
+                span.text-bold 5
+              p.mb-0 <b>Monitoreo y mejora continua</b>: se evalúan indicadores de ahorro de tiempo, reducción de errores y satisfacción de usuarios para escalar las automatizaciones a otros procesos.
     .row.justify-content-center.mb-5
       .col-lg-10.col-12
         p.mb-0(data-aos="fade-down") Con el fin de identificar cómo diferentes plataformas aplican la automatización en distintos contextos, a continuación, se presenta una tabla comparativa que resume sus principales usos, niveles de complejidad y beneficios:
@@ -216,7 +236,7 @@
         p.mb-0(data-aos="fade-down") La evolución de la automatización está estrechamente ligada a la inteligencia artificial. Herramientas como Copilot de Microsoft o ChatGPT ya permiten crear flujos de trabajo usando lenguaje natural, sin necesidad de conocimientos técnicos. En un futuro cercano, la automatización no solo ejecutará tareas, sino que tomará decisiones autónomas basadas en datos, anticipando necesidades y liberando aún más tiempo para la innovación y la creatividad humana.
     separador
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-    h2 4.3 Cumplimiento y seguridad en entornos modernos
+      h2 4.3 Cumplimiento y seguridad en entornos modernos
 
     .row.justify-content-center.tarjeta.tarjeta--C03.mb-5
       .col-lg-7.col-12.p-4.order-lg-1.order-2
@@ -259,7 +279,7 @@
               figure(data-aos="flip-up")
                 img(src="@/assets/curso/temas/tema4/img19.svg", alt="Imagen decorativa")
             .col-lg-12
-              p.mb-0(data-aos="fade-down") Backups automáticos y planes de recuperación ante desastres, que aseguran la continuidad de las operaciones frente a fallas o incidentes.
+              p.mb-0(data-aos="fade-down") <em>Backups</em> automáticos y planes de recuperación ante desastres, que aseguran la continuidad de las operaciones frente a fallas o incidentes.
     
     .row.justify-content-center.mb-5
       .col-lg-3.col-md-8.col-12.mb-3

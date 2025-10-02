@@ -52,7 +52,7 @@ export default {
         {
           id: 3,
           texto:
-            'SaaS entrega <em>software</em> directamente a los usuarios a través de Internet sin necesidad de instalación local.',
+            'SaaS entrega software directamente a los usuarios a través de Internet sin necesidad de instalación local.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -127,7 +127,7 @@ export default {
         {
           id: 8,
           texto:
-            'Todas las plataformas en la nube requieren necesariamente instalar <em>software</em> local para operar.',
+            'Todas las plataformas en la nube requieren necesariamente instalar software local para operar.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -262,7 +262,7 @@ export default {
         {
           id: 17,
           texto:
-            'La seguridad en la nube incluye cifrado de datos, autenticación multifactor y backups automáticos.',
+            'La seguridad en la nube incluye cifrado de datos, autenticación multifactor y <em>backups</em> automáticos.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [

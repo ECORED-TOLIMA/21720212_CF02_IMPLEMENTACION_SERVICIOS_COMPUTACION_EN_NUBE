@@ -6,7 +6,7 @@
     
 
     .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+      .col-12.mb-5.bgs.p-4.brad
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="En la síntesis se describe la estructura y los contenidos esenciales del componente formativo, incluyendo los servicios en la nube (IaaS, PaaS, SaaS), las principales plataformas como Google Cloud, Microsoft Azure, Amazon Web Services y Oracle Cloud Infrastructure, así como sus modos de uso e interfaces. Además, se destacan las aplicaciones cotidianas de la nube, como almacenamiento, colaboración y productividad, y se presentan las tendencias y tecnologías emergentes, incluyendo automatización, tecnologías nativas y prácticas de seguridad y cumplimiento en entornos modernos.")
       .col-auto

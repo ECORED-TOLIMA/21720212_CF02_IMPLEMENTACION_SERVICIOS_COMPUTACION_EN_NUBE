@@ -7,11 +7,11 @@ export default {
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
       },
       {
         clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
       },
     ],
   },
@@ -46,7 +46,7 @@ export default {
           },
           {
             numero: '1.3',
-            titulo: '<em>Software</em> como Servicio (SaaS)',
+            titulo: 'Software como Servicio (SaaS)',
             hash: 't_1_3',
           },
           {
@@ -216,7 +216,7 @@ export default {
     {
       termino: 'Microservicio',
       significado:
-        'Componente de <em>software</em> independiente y modular que realiza funciones específicas dentro de una aplicación más grande.',
+        'Componente de software independiente y modular que realiza funciones específicas dentro de una aplicación más grande.',
     },
     {
       termino: 'PaaS (Plataforma como Servicio)',
@@ -224,7 +224,7 @@ export default {
         'Modelo de nube que ofrece entornos completos para desarrollar, probar y desplegar aplicaciones sin gestionar la infraestructura subyacente.',
     },
     {
-      termino: 'SaaS (<em>Software</em> como Servicio)',
+      termino: 'SaaS (Software como Servicio)',
       significado:
         'Aplicaciones accesibles por Internet, que no requieren instalación local y se utilizan mediante suscripción o acceso en línea.',
     },

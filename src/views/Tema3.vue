@@ -24,7 +24,7 @@
 
     separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-    h2 3.1 Almacenamiento en la nube
+      h2 3.1 Almacenamiento en la nube
 
     p(data-aos="fade-down") El almacenamiento en la nube es una de las aplicaciones más extendidas y utilizadas de la computación en la nube. Consiste en guardar archivos en servidores remotos administrados por proveedores especializados, en lugar de hacerlo únicamente en el disco duro de un computador o en la memoria de un dispositivo móvil. Esta modalidad permite que los datos estén disponibles desde cualquier lugar del mundo con conexión a Internet y se mantengan seguros gracias a sistemas de respaldo y cifrado.
     p.mb-5(data-aos="fade-down") El proceso de almacenamiento en la nube suele seguir pasos sencillos y accesibles para cualquier usuario:
@@ -40,13 +40,13 @@
                   ul
                     li 
                       i.lista-ul__vineta
-                      | El primer paso consiste en crear una cuenta en un servicio de nube, como Google Drive, OneDrive, Dropbox o iCloud.
+                      p.mb-0 El primer paso consiste en crear una cuenta en un servicio de nube, como Google Drive, OneDrive, Dropbox o iCloud.
                     li 
                       i.lista-ul__vineta
-                      | Generalmente basta con un correo electrónico para registrarse.
+                      p.mb-0 Generalmente basta con un correo electrónico para registrarse.
                     li 
                       i.lista-ul__vineta
-                      | La mayoría de los proveedores ofrecen planes gratuitos con cierta capacidad de almacenamiento inicial, que luego se pueden ampliar pagando una suscripción.
+                      p.mb-0 La mayoría de los proveedores ofrecen planes gratuitos con cierta capacidad de almacenamiento inicial, que luego se pueden ampliar pagando una suscripción.
             .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img03.svg', alt='Imagen decorativa')
@@ -58,10 +58,10 @@
                   ul
                     li 
                       i.lista-ul__vineta
-                      | El almacenamiento se gestiona desde un portal <em>web</em> accesible con un navegador, o bien desde una aplicación móvil o de escritorio.
+                      p.mb-0 El almacenamiento se gestiona desde un portal <em>web</em> accesible con un navegador, o bien desde una aplicación móvil o de escritorio.
                     li 
                       i.lista-ul__vineta
-                      | Estas interfaces están diseñadas para que el usuario pueda subir, organizar y recuperar archivos sin necesidad de conocimientos técnicos.
+                      p.mb-0 Estas interfaces están diseñadas para que el usuario pueda subir, organizar y recuperar archivos sin necesidad de conocimientos técnicos.
             .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img04.svg', alt='Imagen decorativa')
@@ -73,10 +73,10 @@
                   ul
                     li 
                       i.lista-ul__vineta
-                      | Los usuarios seleccionan los documentos, imágenes, videos u otros contenidos desde su dispositivo y los suben a la nube mediante la función de “Subir archivo” o “Cargar carpeta”.
+                      p.mb-0 Los usuarios seleccionan los documentos, imágenes, videos u otros contenidos desde su dispositivo y los suben a la nube mediante la función de “Subir archivo” o “Cargar carpeta”.
                     li 
                       i.lista-ul__vineta
-                      | El sistema inicia una transferencia cifrada de los datos al servidor remoto, garantizando su seguridad durante el proceso.
+                      p.mb-0 El sistema inicia una transferencia cifrada de los datos al servidor remoto, garantizando su seguridad durante el proceso.
             .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img05.svg', alt='Imagen decorativa')
@@ -88,13 +88,13 @@
                   ul
                     li 
                       i.lista-ul__vineta
-                      | Una vez en la nube, los archivos pueden organizarse en carpetas y clasificarse según las necesidades del usuario.
+                      p.mb-0 Una vez en la nube, los archivos pueden organizarse en carpetas y clasificarse según las necesidades del usuario.
                     li 
                       i.lista-ul__vineta
-                      | Es posible renombrar, mover, duplicar o eliminar documentos de forma similar a como se hace en un explorador de archivos local.
+                      p.mb-0 Es posible renombrar, mover, duplicar o eliminar documentos de forma similar a como se hace en un explorador de archivos local.
                     li 
                       i.lista-ul__vineta
-                      | Muchas plataformas ofrecen un buscador interno que facilita encontrar documentos rápidamente mediante palabras clave o filtros de fecha.
+                      p.mb-0 Muchas plataformas ofrecen un buscador interno que facilita encontrar documentos rápidamente mediante palabras clave o filtros de fecha.
             .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img06.svg', alt='Imagen decorativa')
@@ -106,10 +106,10 @@
                   ul
                     li 
                       i.lista-ul__vineta
-                      | Los cambios realizados en un archivo desde un dispositivo (por ejemplo, un celular) se sincronizan de manera automática en todos los dispositivos conectados a la misma cuenta.
+                      p.mb-0 Los cambios realizados en un archivo desde un dispositivo (por ejemplo, un celular) se sincronizan de manera automática en todos los dispositivos conectados a la misma cuenta.
                     li 
                       i.lista-ul__vineta
-                      | Esto garantiza que siempre se trabaje con la versión más actualizada, evitando problemas de duplicidad o confusión entre versiones.
+                      p.mb-0 Esto garantiza que siempre se trabaje con la versión más actualizada, evitando problemas de duplicidad o confusión entre versiones.
             .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img07.svg', alt='Imagen decorativa')
@@ -121,10 +121,10 @@
                   ul
                     li 
                       i.lista-ul__vineta
-                      | Los archivos almacenados en la nube pueden descargarse en cualquier momento, ya sea de manera individual o masiva.
+                      p.mb-0 Los archivos almacenados en la nube pueden descargarse en cualquier momento, ya sea de manera individual o masiva.
                     li 
                       i.lista-ul__vineta
-                      | En caso de borrado accidental, la mayoría de los proveedores mantiene una papelera de reciclaje que permite restaurar los documentos durante un tiempo determinado.
+                      p.mb-0 En caso de borrado accidental, la mayoría de los proveedores mantiene una papelera de reciclaje que permite restaurar los documentos durante un tiempo determinado.
             .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img08.svg', alt='Imagen decorativa')
@@ -136,10 +136,10 @@
                   ul
                     li 
                       i.lista-ul__vineta
-                      | Si el usuario requiere más espacio, puede adquirir planes de mayor capacidad sin necesidad de comprar <em>hardware</em> adicional.
+                      p.mb-0 Si el usuario requiere más espacio, puede adquirir planes de mayor capacidad sin necesidad de comprar <em>hardware</em> adicional.
                     li 
                       i.lista-ul__vineta
-                      | Esta flexibilidad es una de las principales ventajas del modelo en la nube frente al almacenamiento físico tradicional.
+                      p.mb-0 Esta flexibilidad es una de las principales ventajas del modelo en la nube frente al almacenamiento físico tradicional.
             .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img09.svg', alt='Imagen decorativa')
@@ -151,10 +151,10 @@
                   ul
                     li 
                       i.lista-ul__vineta
-                      | Los proveedores implementan cifrado de extremo a extremo, autenticación en dos pasos y políticas de respaldo automático.
+                      p.mb-0 Los proveedores implementan cifrado de extremo a extremo, autenticación en dos pasos y políticas de respaldo automático.
                     li 
                       i.lista-ul__vineta
-                      | Esto protege la información frente a pérdidas accidentales, ataques cibernéticos o daños en el dispositivo del usuario.
+                      p.mb-0 Esto protege la información frente a pérdidas accidentales, ataques cibernéticos o daños en el dispositivo del usuario.
             .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img10.svg', alt='Imagen decorativa')
@@ -173,22 +173,22 @@
                   ul
                     li 
                       i.lista-ul__vineta
-                      | Un aprendiz que guarda sus evidencias y presentaciones en Google Drive para acceder a ellas desde el aula, su casa o incluso un café Internet.
+                      p.mb-0 Un aprendiz que guarda sus evidencias y presentaciones en Google Drive para acceder a ellas desde el aula, su casa o incluso un café Internet.
                     li 
                       i.lista-ul__vineta
-                      | Un trabajador independiente que utiliza Dropbox para compartir diseños gráficos con sus clientes y recibir comentarios en tiempo real.
+                      p.mb-0 Un trabajador independiente que utiliza Dropbox para compartir diseños gráficos con sus clientes y recibir comentarios en tiempo real.
                     li 
                       i.lista-ul__vineta
-                      | Una familia que almacena sus fotos y videos en iCloud, asegurando que los recuerdos estén disponibles para todos sus miembros en diferentes dispositivos.
+                      p.mb-0 Una familia que almacena sus fotos y videos en iCloud, asegurando que los recuerdos estén disponibles para todos sus miembros en diferentes dispositivos.
     
     p.mb-0(data-aos="fade-down") En síntesis, el almacenamiento en la nube no solo ofrece un espacio virtual donde guardar información, sino que también brinda seguridad, sincronización automática, acceso universal y escalabilidad, transformando la manera en que se gestiona la información en la vida diaria.
 
     separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-    h2 3.2 Colaboración en línea
+      h2 3.2 Colaboración en línea
 
-    .row.justify-content-center.mb-0(data-aos="flip-up")
-      .col-lg-10.mb-3
+    .row.justify-content-center.mb-5(data-aos="flip-up")
+      .col-12
         .row.justify-content-center.tarjeta.BG06.p-4
           .col-lg-3
             figure
@@ -299,7 +299,7 @@
 
     separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-    h2 3.3 Productividad en entornos educativos y empresariales
+      h2 3.3 Productividad en entornos educativos y empresariales
 
     .row.justify-content-center.mb-5
       .col-lg-9.col-12.order-lg-2.order-2
@@ -313,10 +313,10 @@
               img(src='@/assets/curso/temas/tema3/img14.png', alt='Imagen decorativa')
     
     .row.justify-content-center.mb-5
-      .col-lg-auto.d-none.d-lg-block
+      .col-lg-1.d-none.d-lg-block
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema2/img08.svg', alt='Imagen decorativa')
-      .col-lg-7.col-12
+      .col-lg-8.col-12
         p.mb-0(data-aos="fade-down") En segundo lugar, en los entornos empresariales la productividad se refleja en la capacidad de coordinar equipos distribuidos geográficamente. El uso de calendarios compartidos, sistemas de gestión de proyectos y herramientas de videoconferencia integradas en la nube facilita la planificación de tareas y el seguimiento de metas. Las empresas también aprovechan la nube para automatizar procesos internos, como el control de inventarios, la gestión de clientes (CRM) o la administración de recursos humanos, lo que ahorra tiempo y reduce costos operativos.
       .col-lg-3.col-6
         figure(data-aos="fade-right")
@@ -324,7 +324,7 @@
     
     p.mb-5(data-aos="fade-down") El proceso general para aprovechar estas herramientas sigue una ruta común:
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
+    .row.justify-content-center.tarjeta.tarjeta--BG06.align-items-center.mb-5(data-aos="flip-up")
       SlyderF.color-acento-botones(columnas="col-lg-6 col-xl-4")
         .tarjeta.tarjeta--BG03.p-4
           .row.justify-content-center.mb-3

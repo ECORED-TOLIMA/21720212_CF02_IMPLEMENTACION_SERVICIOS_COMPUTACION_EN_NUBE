@@ -16,7 +16,7 @@
 
     separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-    h2 2.1 Google Cloud
+      h2 2.1 Google Cloud
 
     p(data-aos="fade-down") Es la propuesta de Google para servicios en la nube, diseñada para facilitar tanto a usuarios principiantes como a empresas avanzadas, el acceso a infraestructura tecnológica sin necesidad de adquirir equipos propios. Su enfoque está en la innovación, la escalabilidad y la integración con otros productos de Google.
 
@@ -75,7 +75,7 @@
 
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-    h2 2.2 Microsoft Azure
+      h2 2.2 Microsoft Azure
 
     .row.justify-content-center.mb-5
       .col-lg-9.col-12.order-lg-1.order-2
@@ -86,25 +86,25 @@
             ul.lista-ul--color.mb-0(data-aos="fade-down")
               li.mb-2
                 i.fas.fa-cloud
-                p.mb-0 Portal <em>web</em> amigable: paneles de control claros e intuitivos que facilitan la administración de recursos y la configuración de servicios.
+                p.mb-0 <b>Portal <em>web</em> amigable</b>: paneles de control claros e intuitivos que facilitan la administración de recursos y la configuración de servicios.
               li.mb-2
                 i.fas.fa-cloud
-                p.mb-0 Amplia gama de servicios: incluye almacenamiento en la nube, redes virtuales, bases de datos y aplicaciones empresariales.
+                p.mb-0 <b>Amplia gama de servicios</b>: incluye almacenamiento en la nube, redes virtuales, bases de datos y aplicaciones empresariales.
               li.mb-2
                 i.fas.fa-cloud
-                p.mb-0 Herramientas de desarrollo: integración con entornos como Visual Studio y servicios DevOps para gestionar proyectos de <em>software</em> de principio a fin.
+                p.mb-0 <b>Herramientas de desarrollo</b>: integración con entornos como Visual Studio y servicios DevOps para gestionar proyectos de software de principio a fin.
               li.mb-2
                 i.fas.fa-cloud
-                p.mb-0 Inteligencia artificial y análisis de datos: ofrece soluciones avanzadas para machine learning, big data y automatización de procesos.
+                p.mb-0 <b>Inteligencia artificial y análisis de datos</b>: ofrece soluciones avanzadas para <em>machine learning</em>, <em>big data</em> y automatización de procesos.
               li.mb-2
                 i.fas.fa-cloud
-                p.mb-0 Escalabilidad y flexibilidad: los recursos se ajustan de acuerdo con la demanda, optimizando costos y rendimiento.
+                p.mb-0 <b>Escalabilidad y flexibilidad</b>: los recursos se ajustan de acuerdo con la demanda, optimizando costos y rendimiento.
               li.mb-2
                 i.fas.fa-cloud
-                p.mb-0 Programas de apoyo: créditos gratuitos y documentación especializada para que aprendices y desarrolladores experimenten sin costos iniciales.
+                p.mb-0 <b>Programas de apoyo</b>: créditos gratuitos y documentación especializada para que aprendices y desarrolladores experimenten sin costos iniciales.
               li.mb-0
                 i.fas.fa-cloud
-                p.mb-0 Seguridad y cumplimiento: cumple con normativas internacionales y brinda opciones de gestión de identidades y accesos para proteger los datos.
+                p.mb-0 <b>Seguridad y cumplimiento</b>: cumple con normativas internacionales y brinda opciones de gestión de identidades y accesos para proteger los datos.
       .col-lg-3.col-md-6.col-8.mb-3.order-lg-2.order-1.mb-lg-0
         .row.justify-content-center
           .col
@@ -122,13 +122,13 @@
 
     separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-    h2 2.3 Amazon Web Services
+      h2 2.3 Amazon Web Services
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
-      .col-lg-auto.d-none.d-lg-block
+      .col-lg-1.d-none.d-lg-block
         figure
           img(data-aos="fade-right")(src='@/assets/curso/temas/tema2/img19.svg' alt='AvatarTop')
-      .col-lg-10.col-12
+      .col-lg-11.col-12
         p(data-aos="fade-down") Es la plataforma de servicios en la nube más utilizada a nivel global, reconocida por su robustez, escalabilidad y amplia cobertura de servicios. Está orientada a organizaciones de todos los tamaños, desde startups hasta grandes corporaciones, y se adapta a diferentes sectores de la industria.
         p(data-aos="fade-down") Entre sus principales características y procesos se destacan:
     
@@ -199,7 +199,7 @@
 
     separador
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-    h2 2.4 Oracle Cloud Infrastructure
+      h2 2.4 Oracle Cloud Infrastructure
 
     p(data-aos="fade-down") Es la propuesta de Oracle para servicios en la nube, con un enfoque especializado en bases de datos empresariales, infraestructura robusta y seguridad avanzada. Está especialmente diseñada para organizaciones que manejan grandes volúmenes de información y requieren un alto rendimiento en entornos críticos.
     p.mb-5(data-aos="fade-down") Entre sus principales características y procesos se encuentran:
@@ -232,7 +232,7 @@
             .row.justify-content-center.mb-3
               .col-6.col-lg-8
                 img(src="@/assets/curso/temas/tema2/img24.svg", alt="alt").img100.m-auto
-            h4.titulo-1 Opciones híbridas y multicloud
+            h4.titulo-1 Opciones híbridas y <em>multicloud</em>
             p.mb-0 Que permiten a las empresas integrar OCI con otras nubes públicas o privadas, facilitando la interoperabilidad.
           .tarjeta.tarjeta--slyder.p-4
             .row.justify-content-center.mb-3
@@ -257,7 +257,7 @@
 
     separador
     #t_2_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-    h2 2.5 Modo de uso de interfaces y herramientas
+      h2 2.5 Modo de uso de interfaces y herramientas
 
     .row.justify-content-center.mb-5
       .col-12
@@ -283,7 +283,7 @@
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema2/img08.svg', alt='Imagen decorativa')
       .col-lg-10.col-12
-        p.mb-0(data-aos="fade-down") En síntesis, aunque todas las plataformas comparten la esencia de ofrecer servicios en la nube, cada una se distingue por su enfoque particular: Google resalta en inteligencia artificial y big data, Microsoft en integración con entornos empresariales, Amazon en la amplitud de servicios y Oracle en la gestión avanzada de bases de datos. Esta diferenciación se refleja en la siguiente tabla comparativa, que permite reconocer con mayor claridad las fortalezas de cada proveedor.
+        p.mb-0(data-aos="fade-down") En síntesis, aunque todas las plataformas comparten la esencia de ofrecer servicios en la nube, cada una se distingue por su enfoque particular: Google resalta en inteligencia artificial y <em>big data</em>, Microsoft en integración con entornos empresariales, Amazon en la amplitud de servicios y Oracle en la gestión avanzada de bases de datos. Esta diferenciación se refleja en la siguiente tabla comparativa, que permite reconocer con mayor claridad las fortalezas de cada proveedor.
     
     .row.justify-content-center.mb-0(data-aos="flip-up")
       .col-lg-10.col-12
@@ -302,7 +302,7 @@
             tbody
               tr
                 td.text-bold(data-aos="fade-down")(style="background-color: #F6F6F6") Popularidad / Mercado
-                td(data-aos="fade-down")(style="background-color: #F6F6F6") Destacado en inteligencia artificial, machine learning y big data.
+                td(data-aos="fade-down")(style="background-color: #F6F6F6") Destacado en inteligencia artificial, <em>machine learning</em> y <em>big data</em>.
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Muy usado en empresas, fuerte integración con Windows y Microsoft 365.
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Líder de mercado, con la oferta más amplia y madura.
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Menor cuota de mercado, enfocado en bases de datos y grandes empresas.
@@ -332,13 +332,13 @@
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Seguridad robusta con un enfoque empresarial.
               tr
                 td.text-bold(data-aos="fade-down") Facilidades para desarrolladores
-                td(data-aos="fade-down") APIs potentes e integración con herramientas open <em>source</em>.
+                td(data-aos="fade-down") APIs potentes e integración con herramientas <em>open</em> <em>source</em>.
                 td(data-aos="fade-down") Excelente soporte para lenguajes Microsoft y herramientas DevOps.
                 td(data-aos="fade-down") Amplio soporte para diversos lenguajes y entornos de desarrollo.
                 td(data-aos="fade-down") Herramientas avanzadas para gestión de bases de datos y desarrollo empresarial.
               tr
-                td.text-bold(data-aos="fade-down")(style="background-color: #F6F6F6") Integración con <em>software</em>
-                td(data-aos="fade-down")(style="background-color: #F6F6F6") Óptima con productos Google y herramientas open <em>source</em>.
+                td.text-bold(data-aos="fade-down")(style="background-color: #F6F6F6") Integración con software
+                td(data-aos="fade-down")(style="background-color: #F6F6F6") Óptima con productos Google y herramientas <em>open</em> <em>source</em>.
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Ideal para el ecosistema Microsoft y aplicaciones empresariales.
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Compatible con prácticamente todo el ecosistema tecnológico.
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Integración fuerte con bases de datos Oracle y aplicaciones corporativas.
