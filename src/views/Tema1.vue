@@ -95,7 +95,7 @@
           .bottomCircle01.mb-5
             figure
               img(src="@/assets/curso/temas/tema1/img10.svg", alt="alt").img80.m-auto
-          p.mb-0 Flexibilidad para instalar cualquier sistema operativo o software según los objetivos del usuario.
+          p.mb-0 Flexibilidad para instalar cualquier sistema operativo o <em>software</em> según los objetivos del usuario.
       .col-xl-3.col-lg-8.mb-4.mb-xl-5
         .crd01.crd--grayGrad(data-aos="flip-left")
           .bottomCircle01.mb-5
@@ -186,7 +186,7 @@
                 p.mb-0 Ofrece entornos preconfigurados con bases de datos, sistemas operativos, servidores <em>web</em> y marcos de programación.
               li.mb-4
                 i.fas.fa-cloud
-                p.mb-0 Permite a los desarrolladores concentrarse en el diseño y las funcionalidades de las aplicaciones, sin perder tiempo en la administración de <em>hardware</em> o software base.
+                p.mb-0 Permite a los desarrolladores concentrarse en el diseño y las funcionalidades de las aplicaciones, sin perder tiempo en la administración de <em>hardware</em> o <em>software</em> base.
               li.mb-0
                 i.fas.fa-cloud
                 p.mb-0 Proporciona escalabilidad automática, ajustando los recursos según las necesidades del proyecto.
@@ -266,7 +266,7 @@
     
     .row.justify-content-center.mb-0
       .col-lg-10.col-12
-        p.mb-5(data-aos="fade-down") En el ámbito educativo, PaaS ofrece a los aprendices un espacio práctico para experimentar en el desarrollo de software, sin necesidad de gestionar servidores o sistemas operativos. Por ejemplo:
+        p.mb-5(data-aos="fade-down") En el ámbito educativo, PaaS ofrece a los aprendices un espacio práctico para experimentar en el desarrollo de <em>software</em>, sin necesidad de gestionar servidores o sistemas operativos. Por ejemplo:
 
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
@@ -445,7 +445,7 @@
                     img(data-aos="fade-up")(src='@/assets/curso/temas/tema1/img41.svg', alt='Imagen decorativa')
                 .col-lg-10.col-10
                   h4(data-aos="fade-down") SaaS (Software como Servicio)
-                  p.mb-0(data-aos="fade-down") Es el modelo más accesible. El software está completamente listo para usar desde cualquier dispositivo con Internet. El proveedor gestiona todo, y el usuario solo debe registrarse o pagar una suscripción.
+                  p.mb-0(data-aos="fade-down") Es el modelo más accesible. El <em>software</em> está completamente listo para usar desde cualquier dispositivo con Internet. El proveedor gestiona todo, y el usuario solo debe registrarse o pagar una suscripción.
                 
           .col-lg-4.col-md-7.col-8.mb-3.order-lg-1.order-1.mb-lg-0
             .row.justify-content-center
@@ -501,7 +501,7 @@
                 td.text-bold(data-aos="fade-down")(style="background-color: #F6F6F6") SaaS
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Accesible desde cualquier dispositivo, mantenimiento a cargo del proveedor.
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Dependencia total del proveedor, poca personalización.
-                td(data-aos="fade-down")(style="background-color: #F6F6F6") El software ya está listo para usarse en la nube.
+                td(data-aos="fade-down")(style="background-color: #F6F6F6") El <em>software</em> ya está listo para usarse en la nube.
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Gmail, Google Drive y Microsoft 365.
     
     .row.justify-content-center.mb-5
@@ -528,7 +528,7 @@
                   figure
                     img(data-aos="fade-up")(src='@/assets/curso/temas/tema1/img41.svg', alt='Imagen decorativa')
                 .col-lg-10.col-10
-                  p.mb-0(data-aos="fade-down") En el modelo SaaS, toda la gestión recae en el proveedor. El usuario simplemente accede y utiliza el software, sin necesidad de instalar, configurar o mantener nada. Esta opción ofrece la mayor comodidad, aunque limita las posibilidades de personalización.
+                  p.mb-0(data-aos="fade-down") En el modelo SaaS, toda la gestión recae en el proveedor. El usuario simplemente accede y utiliza el <em>software</em>, sin necesidad de instalar, configurar o mantener nada. Esta opción ofrece la mayor comodidad, aunque limita las posibilidades de personalización.
                 
           .col-lg-4.col-md-7.col-8.mb-3.order-lg-1.order-1.mb-lg-0
             .row.justify-content-center

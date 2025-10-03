@@ -92,7 +92,7 @@
                 p.mb-0 <b>Amplia gama de servicios</b>: incluye almacenamiento en la nube, redes virtuales, bases de datos y aplicaciones empresariales.
               li.mb-2
                 i.fas.fa-cloud
-                p.mb-0 <b>Herramientas de desarrollo</b>: integración con entornos como Visual Studio y servicios DevOps para gestionar proyectos de software de principio a fin.
+                p.mb-0 <b>Herramientas de desarrollo</b>: integración con entornos como Visual Studio y servicios DevOps para gestionar proyectos de <em>software</em> de principio a fin.
               li.mb-2
                 i.fas.fa-cloud
                 p.mb-0 <b>Inteligencia artificial y análisis de datos</b>: ofrece soluciones avanzadas para <em>machine learning</em>, <em>big data</em> y automatización de procesos.
@@ -337,7 +337,7 @@
                 td(data-aos="fade-down") Amplio soporte para diversos lenguajes y entornos de desarrollo.
                 td(data-aos="fade-down") Herramientas avanzadas para gestión de bases de datos y desarrollo empresarial.
               tr
-                td.text-bold(data-aos="fade-down")(style="background-color: #F6F6F6") Integración con software
+                td.text-bold(data-aos="fade-down")(style="background-color: #F6F6F6") Integración con <em>software</em>
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Óptima con productos Google y herramientas <em>open</em> <em>source</em>.
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Ideal para el ecosistema Microsoft y aplicaciones empresariales.
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Compatible con prácticamente todo el ecosistema tecnológico.

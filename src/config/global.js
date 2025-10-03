@@ -216,7 +216,7 @@ export default {
     {
       termino: 'Microservicio',
       significado:
-        'Componente de software independiente y modular que realiza funciones específicas dentro de una aplicación más grande.',
+        'Componente de <em>software</em> independiente y modular que realiza funciones específicas dentro de una aplicación más grande.',
     },
     {
       termino: 'PaaS (Plataforma como Servicio)',
