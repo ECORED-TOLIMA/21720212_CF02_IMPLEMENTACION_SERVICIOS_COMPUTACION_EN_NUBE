@@ -67,7 +67,7 @@
                 img(src='@/assets/curso/temas/tema3/img04.svg', alt='Imagen decorativa')
           .row.justify-content-center.p-4(titulo="")
             .col-lg-5.order-lg-1.order-2
-              h4 Carga de archivos (upload)
+              h4 Carga de archivos (<em>upload</em>)
               ul.lista-ul
                 li
                   ul

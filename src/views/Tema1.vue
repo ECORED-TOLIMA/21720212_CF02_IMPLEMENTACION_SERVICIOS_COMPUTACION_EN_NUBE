@@ -370,7 +370,7 @@
               figure(data-aos="flip-up")
                 img(src="@/assets/curso/temas/tema1/img33.svg", alt="Imagen decorativa")
             .col-lg-12
-              p.mb-0(data-aos="fade-down") Rquiere conexión estable a Internet para garantizar un buen funcionamiento.
+              p.mb-0(data-aos="fade-down") Requiere conexión estable a Internet para garantizar un buen funcionamiento.
       .col-lg-3.col-md-8.col-10.mb-3
         figure(data-aos="flip-up")
           img(src="@/assets/curso/temas/tema1/img34.png", alt="Imagen decorativa")

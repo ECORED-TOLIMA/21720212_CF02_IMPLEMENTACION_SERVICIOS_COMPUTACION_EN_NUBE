@@ -29,7 +29,7 @@
             .col-lg-6.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema2/img02.svg' alt='AvatarTop')
           h4.text-center Facilidad de uso
-          p Dispone de una interfaz gráfica intuitiva accesible desde cualquier navegador <em>web</em>.
+          p.mb-0 Dispone de una interfaz gráfica intuitiva accesible desde cualquier navegador <em>web</em>.
 
         .tarjeta.tarjeta--BG03.p-4
           .row.justify-content-center.mb-3
