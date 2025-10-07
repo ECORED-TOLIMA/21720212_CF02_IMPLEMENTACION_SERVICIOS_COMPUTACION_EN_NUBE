@@ -123,13 +123,24 @@
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.2 Automatización para la optimización de tiempos
 
+    //- .row.justify-content-center.mb-5(data-aos="flip-up")
+    //-   .col-12.mb-3
+    //-     .row.justify-content-center.tarjeta.BG06.p-4
+    //-       .col-lg-2.col-6
+    //-         figure
+    //-           img(data-aos="fade-right")(src='@/assets/curso/temas/tema4/img09.svg' alt='AvatarTop')
+    //-       .col-lg-10
+    //-         p(data-aos="fade-down") La automatización representa una de las tendencias más significativas en la computación en la nube, pues permite reducir la intervención humana en tareas rutinarias, optimizar tiempos y minimizar errores. Su aplicación se extiende desde la educación y la productividad personal hasta los entornos empresariales más complejos.
+    //-         p.mb-0(data-aos="fade-down") Proceso general para implementar la automatización:
+
     .row.justify-content-center.mb-5(data-aos="flip-up")
-      .col-12.mb-3
-        .row.justify-content-center.tarjeta.BG06.p-4
-          .col-lg-2.col-6
-            figure
-              img(data-aos="fade-right")(src='@/assets/curso/temas/tema4/img09.svg' alt='AvatarTop')
-          .col-lg-10
+      .col-12
+        .d-flex.flex-wrap.align-items-stretch.tarjeta01
+          .imagen-01
+            figure.mb-0
+              img(src='@/assets/curso/temas/tema4/img09.svg' alt='Servidor' class='img-fluid')
+          
+          .contenido-tarjeta.p-4
             p(data-aos="fade-down") La automatización representa una de las tendencias más significativas en la computación en la nube, pues permite reducir la intervención humana en tareas rutinarias, optimizar tiempos y minimizar errores. Su aplicación se extiende desde la educación y la productividad personal hasta los entornos empresariales más complejos.
             p.mb-0(data-aos="fade-down") Proceso general para implementar la automatización:
     

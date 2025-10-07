@@ -111,14 +111,24 @@
             figure
               img(data-aos="fade-up")(src='@/assets/curso/temas/tema2/img09.png', alt='Imagen decorativa')
     
+    //- .row.justify-content-center.mb-0(data-aos="flip-up")
+    //-   .col-lg-10.mb-3
+    //-     .row.justify-content-center.tarjeta.BG04.p-4
+    //-       .col-lg-3
+    //-         figure
+    //-           img(data-aos="fade-right")(src='@/assets/curso/temas/tema2/img10.svg' alt='AvatarTop')
+    //-       .col-lg-9
+    //-         p.mb-0(data-aos="fade-down") Gracias a estas capacidades, Azure se ha convertido en una plataforma clave para empresas que buscan transformar digitalmente sus procesos. En el ámbito educativo, también es una herramienta valiosa que permite a los aprendices acceder a entornos de programación, proyectos colaborativos y simulaciones en tiempo real.
+    
     .row.justify-content-center.mb-0(data-aos="flip-up")
-      .col-lg-10.mb-3
-        .row.justify-content-center.tarjeta.BG04.p-4
-          .col-lg-3
-            figure
-              img(data-aos="fade-right")(src='@/assets/curso/temas/tema2/img10.svg' alt='AvatarTop')
-          .col-lg-9
-            p.mb-0(data-aos="fade-down") Gracias a estas capacidades, Azure se ha convertido en una plataforma clave para empresas que buscan transformar digitalmente sus procesos. En el ámbito educativo, también es una herramienta valiosa que permite a los aprendices acceder a entornos de programación, proyectos colaborativos y simulaciones en tiempo real.
+      .col-lg-10.col-12
+        .d-flex.flex-wrap.align-items-stretch.tarjeta01
+          .imagen-02
+            figure.mb-0
+              img(src='@/assets/curso/temas/tema2/img10.svg' alt='Servidor' class='img-fluid')
+          
+          .contenido-tarjeta.p-4
+            p(data-aos="fade-down") Gracias a estas capacidades, Azure se ha convertido en una plataforma clave para empresas que buscan transformar digitalmente sus procesos. En el ámbito educativo, también es una herramienta valiosa que permite a los aprendices acceder a entornos de programación, proyectos colaborativos y simulaciones en tiempo real.
 
     separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")

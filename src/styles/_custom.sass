@@ -83,12 +83,43 @@
   @media (max-width: $bp-max-sm)
     background: linear-gradient(to bottom, #00BDFF 43%, #EFE5FF 12%)
 
-// Modulo tarjetas
-
 .cajon--C01
   background-color: #E8EBF4
 .cajon--C02
   background-color: #FFF8E2
+
+//-- Tarjeta adicional
+
+.tarjeta01
+  display: flex
+  border-radius: 12px
+  overflow: hidden
+  background-color: #EFE5FF
+  flex-direction: row
+
+  @media (max-width: 768px) 
+    flex-direction: column  
+
+
+.imagen-01
+  background-color: #00BDFF
+  padding: 1rem
+  display: flex
+  align-items: center
+  justify-content: center
+  width: flex
+.imagen-02
+  background-color: #BCC3DE
+  padding: 1rem
+  display: flex
+  align-items: center
+  justify-content: center
+  width: flex
+
+.contenido-tarjeta 
+  flex: 1
+  background-color: #EFE5FF
+
 
 //- Modulo tarjetas hover - horizontal
 
@@ -236,3 +267,4 @@ li
     background-color: #BCC3DE
 .tarjeta.tarjeta--gris
   background-color: #4EFD83
+

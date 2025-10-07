@@ -186,17 +186,20 @@
     separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.2 Colaboración en línea
-
+    
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-12
-        .row.justify-content-center.tarjeta.BG06.p-4
-          .col-lg-3
-            figure
-              img(data-aos="fade-right")(src='@/assets/curso/temas/tema3/img12.svg' alt='AvatarTop')
-          .col-lg-9
-            p(data-aos="fade-down") Es una de las funciones más poderosas que ofrece la nube, ya que permite a varias personas trabajar de manera conjunta en un mismo archivo o proyecto sin importar la distancia geográfica. Gracias a esta característica, aprendices, instructores y profesionales pueden compartir información, editar documentos en tiempo real y comunicarse de forma más efectiva.
-            p.mb-0(data-aos="fade-down") El proceso de colaboración en la nube se da en varias etapas clave:
-    
+        .d-flex.flex-wrap.align-items-stretch.tarjeta01
+          .imagen-01
+            figure.mb-0
+              img(src='@/assets/curso/temas/tema3/img12.svg' alt='Servidor' class='img-fluid')
+          
+          .contenido-tarjeta.p-4
+            p(data-aos="fade-down")
+              | Es una de las funciones más poderosas que ofrece la nube, ya que permite a varias personas trabajar de manera conjunta en un mismo archivo o proyecto sin importar la distancia geográfica. Gracias a esta característica, aprendices, instructores y profesionales pueden compartir información, editar documentos en tiempo real y comunicarse de forma más efectiva.
+            p.mb-0(data-aos="fade-down")
+              | El proceso de colaboración en la nube se da en varias etapas clave:
+
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .row.justify-content-center.align-items-center
         .col-lg-9.col-12.mb-5.mb-md-0.order-lg-1.order-2.mb-lg-0
