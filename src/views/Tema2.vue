@@ -27,42 +27,42 @@
         .tarjeta.tarjeta--BG03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema2/img02.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema2/img02.svg' alt='Imagen decorativa')
           h4.text-center Facilidad de uso
           p.mb-0 Dispone de una interfaz gráfica intuitiva accesible desde cualquier navegador <em>web</em>.
 
         .tarjeta.tarjeta--BG03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema2/img03.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema2/img03.svg' alt='Imagen decorativa')
           h4.text-center Análisis de datos
           p Incluye herramientas como Google BigQuery, orientada al procesamiento de grandes volúmenes de información en tiempo real.
         
         .tarjeta.tarjeta--BG03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema2/img04.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema2/img04.svg' alt='Imagen decorativa')
           h4.text-center Computación escalable
           p Con Google Compute Engine, permite crear y administrar máquinas virtuales de alto rendimiento adaptadas a las necesidades de cada proyecto.
 
         .tarjeta.tarjeta--BG03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema2/img05.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema2/img05.svg' alt='Imagen decorativa')
           h4.text-center Inteligencia artificial y aprendizaje automático
           p Ofrece servicios avanzados para desarrollar modelos predictivos y de automatización, incluso sin conocimientos profundos en programación.
         
         .tarjeta.tarjeta--BG03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema2/img06.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema2/img06.svg' alt='Imagen decorativa')
           h4.text-center Trabajo colaborativo
           p Integración con Google Workspace (Drive, Docs, Meet, entre otros), lo que fomenta la productividad en entornos educativos y corporativos.
 
         .tarjeta.tarjeta--BG03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema2/img07.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema2/img07.svg' alt='Imagen decorativa')
           h4.text-center Seguridad y cumplimiento
           p Garantiza protección de datos mediante cifrado, controles de acceso y certificaciones internacionales.
     
@@ -116,19 +116,19 @@
     //-     .row.justify-content-center.tarjeta.BG04.p-4
     //-       .col-lg-3
     //-         figure
-    //-           img(data-aos="fade-right")(src='@/assets/curso/temas/tema2/img10.svg' alt='AvatarTop')
+    //-           img(data-aos="fade-right")(src='@/assets/curso/temas/tema2/img10.svg' alt='Imagen decorativa')
     //-       .col-lg-9
     //-         p.mb-0(data-aos="fade-down") Gracias a estas capacidades, Azure se ha convertido en una plataforma clave para empresas que buscan transformar digitalmente sus procesos. En el ámbito educativo, también es una herramienta valiosa que permite a los aprendices acceder a entornos de programación, proyectos colaborativos y simulaciones en tiempo real.
     
     .row.justify-content-center.mb-0(data-aos="flip-up")
       .col-lg-10.col-12
-        .d-flex.flex-wrap.align-items-stretch.tarjeta01
+        .d-flex.flex-wrap.align-items-center.tarjeta01
           .imagen-02
             figure.mb-0
               img(src='@/assets/curso/temas/tema2/img10.svg' alt='Servidor' class='img-fluid')
           
           .contenido-tarjeta.p-4
-            p(data-aos="fade-down") Gracias a estas capacidades, Azure se ha convertido en una plataforma clave para empresas que buscan transformar digitalmente sus procesos. En el ámbito educativo, también es una herramienta valiosa que permite a los aprendices acceder a entornos de programación, proyectos colaborativos y simulaciones en tiempo real.
+            p.mb-0(data-aos="fade-down") Gracias a estas capacidades, Azure se ha convertido en una plataforma clave para empresas que buscan transformar digitalmente sus procesos. En el ámbito educativo, también es una herramienta valiosa que permite a los aprendices acceder a entornos de programación, proyectos colaborativos y simulaciones en tiempo real.
 
     separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -137,7 +137,7 @@
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-1.d-none.d-lg-block
         figure
-          img(data-aos="fade-right")(src='@/assets/curso/temas/tema2/img19.svg' alt='AvatarTop')
+          img(data-aos="fade-right")(src='@/assets/curso/temas/tema2/img19.svg' alt='Imagen decorativa')
       .col-lg-11.col-12
         p(data-aos="fade-down") Es la plataforma de servicios en la nube más utilizada a nivel global, reconocida por su robustez, escalabilidad y amplia cobertura de servicios. Está orientada a organizaciones de todos los tamaños, desde startups hasta grandes corporaciones, y se adapta a diferentes sectores de la industria.
         p(data-aos="fade-down") Entre sus principales características y procesos se destacan:

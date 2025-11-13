@@ -128,18 +128,17 @@
     //-     .row.justify-content-center.tarjeta.BG06.p-4
     //-       .col-lg-2.col-6
     //-         figure
-    //-           img(data-aos="fade-right")(src='@/assets/curso/temas/tema4/img09.svg' alt='AvatarTop')
+    //-           img(data-aos="fade-right")(src='@/assets/curso/temas/tema4/img09.svg' alt='Imagen decorativa')
     //-       .col-lg-10
     //-         p(data-aos="fade-down") La automatización representa una de las tendencias más significativas en la computación en la nube, pues permite reducir la intervención humana en tareas rutinarias, optimizar tiempos y minimizar errores. Su aplicación se extiende desde la educación y la productividad personal hasta los entornos empresariales más complejos.
     //-         p.mb-0(data-aos="fade-down") Proceso general para implementar la automatización:
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-12
-        .d-flex.flex-wrap.align-items-stretch.tarjeta01
+        .d-flex.flex-wrap.align-items-center.tarjeta01
           .imagen-01
             figure.mb-0
               img(src='@/assets/curso/temas/tema4/img09.svg' alt='Servidor' class='img-fluid')
-          
           .contenido-tarjeta.p-4
             p(data-aos="fade-down") La automatización representa una de las tendencias más significativas en la computación en la nube, pues permite reducir la intervención humana en tareas rutinarias, optimizar tiempos y minimizar errores. Su aplicación se extiende desde la educación y la productividad personal hasta los entornos empresariales más complejos.
             p.mb-0(data-aos="fade-down") Proceso general para implementar la automatización:
@@ -149,7 +148,7 @@
         .tarjeta.tarjeta--BG03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-5
-              img(src='@/assets/curso/temas/tema4/img10.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema4/img10.svg' alt='Imagen decorativa')
           ol.lista-ol--cuadro.lista-ol
             li 
               .lista-ol--cuadro__vineta
@@ -158,7 +157,7 @@
         .tarjeta.tarjeta--BG03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-5
-              img(src='@/assets/curso/temas/tema4/img11.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema4/img11.svg' alt='Imagen decorativa')
           ol.lista-ol--cuadro.lista-ol
             li 
               .lista-ol--cuadro__vineta
@@ -167,7 +166,7 @@
         .tarjeta.tarjeta--BG03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-5
-              img(src='@/assets/curso/temas/tema4/img12.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema4/img12.svg' alt='Imagen decorativa')
           ol.lista-ol--cuadro.lista-ol
             li 
               .lista-ol--cuadro__vineta
@@ -176,7 +175,7 @@
         .tarjeta.tarjeta--BG03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-5
-              img(src='@/assets/curso/temas/tema4/img13.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema4/img13.svg' alt='Imagen decorativa')
           ol.lista-ol--cuadro.lista-ol
             li 
               .lista-ol--cuadro__vineta
@@ -185,7 +184,7 @@
         .tarjeta.tarjeta--BG03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-5
-              img(src='@/assets/curso/temas/tema4/img14.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema4/img14.svg' alt='Imagen decorativa')
           ol.lista-ol--cuadro.lista-ol
             li 
               .lista-ol--cuadro__vineta

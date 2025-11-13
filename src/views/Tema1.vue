@@ -46,10 +46,9 @@
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img
             .col-lg-11
-              img(data-aos="fade-right")(src='@/assets/curso/temas/tema1/img05.svg' alt='AvatarTop')
+              img(data-aos="fade-right")(src='@/assets/curso/temas/tema1/img05.svg' alt='Imagen decorativa')
           .tarjeta.tarjeta--C01
             .p-4
-              h4 
               p.mb-0(data-aos="fade-down") Cuando una persona necesita un lugar para habitar, puede optar por diferentes alternativas: alquilar un terreno con instalaciones básicas para construir desde cero, arrendar una casa parcialmente equipada en la que solo debe añadir ciertos elementos, o vivir en un apartamento completamente amoblado y listo para ser ocupado. De manera similar, IaaS, PaaS y SaaS representan distintos grados de responsabilidad y personalización que se ajustan a los requerimientos de cada organización o usuario.
 
     separador
@@ -202,25 +201,25 @@
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
           .col-lg-4.col-3
-            img(src='@/assets/curso/temas/tema1/img19.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/img19.svg' alt='Imagen decorativa')
         p.text-center(data-aos="fade-down") Reduce el tiempo de desarrollo, ya que todo está listo para usarse.
 
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
           .col-lg-4.col-3
-            img(src='@/assets/curso/temas/tema1/img20.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/img20.svg' alt='Imagen decorativa')
         p.text-center(data-aos="fade-down") Disminuye los costos en equipos físicos y mantenimiento.
 
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
           .col-lg-4.col-3
-            img(src='@/assets/curso/temas/tema1/img21.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/img21.svg' alt='Imagen decorativa')
         p.text-center(data-aos="fade-down") Favorece la innovación, al permitir que los equipos se enfoquen en sus ideas.
 
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
           .col-lg-4.col-3
-            img(src='@/assets/curso/temas/tema1/img22.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/img22.svg' alt='Imagen decorativa')
         p.text-center(data-aos="fade-down") Resulta ideal para proyectos educativos, pues facilita a los aprendices experimentar y desarrollar aplicaciones.
     
     p.mb-5(data-aos="fade-down") Pero es importante reconocer las limitaciones de PaaS:
@@ -267,14 +266,12 @@
     .row.justify-content-center.mb-0
       .col-lg-10.col-12
         p.mb-5(data-aos="fade-down") En el ámbito educativo, PaaS ofrece a los aprendices un espacio práctico para experimentar en el desarrollo de <em>software</em>, sin necesidad de gestionar servidores o sistemas operativos. Por ejemplo:
-
-        .tarjeta-avatar-b.mb-5
+        .tarjeta-avatar-b.align-items-center.mb-5
           .tarjeta-avatar-b__img
             .col-lg-10
-              img(data-aos="fade-right")(src='@/assets/curso/temas/tema1/img25.svg' alt='AvatarTop')
+              img(data-aos="fade-right")(src='@/assets/curso/temas/tema1/img25.svg' alt='Imagen decorativa')
           .tarjeta.tarjeta--C01
-            .p-3
-              h4 
+            .py-5.px-4
               p.mb-0(data-aos="fade-down") Un equipo de aprendices puede usar Heroku para desplegar un proyecto de aplicación <em>web</em> como parte de su formación, enfocándose en la lógica del sistema y no en la infraestructura.
 
         p.mb-0(data-aos="fade-down") En conclusión, PaaS se presenta como un modelo que equilibra facilidad de uso, innovación y reducción de tiempos, aunque entrega menos control que IaaS.
@@ -380,19 +377,19 @@
     .row.mb-5
       .col-lg-4.col-lg.mb-5.mb-lg-0(data-aos="flip-up")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema1/img35.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema1/img35.svg' alt='Imagen decorativa')
           .tarjeta.tarjeta--C01.w-100
             .p-4(data-aos="fade-down") Google Drive y Microsoft 365, que permiten almacenamiento en la nube y edición colaborativa de documentos.
               p.mb-0.text-center 
       .col-lg-4.col-lg.mb-5.mb-lg-0(data-aos="flip-up")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema1/img36.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema1/img36.svg' alt='Imagen decorativa')
           .tarjeta.tarjeta--C01.w-100
             .p-4(data-aos="fade-down") Spotify y Netflix, que ofrecen servicios de música y video en streaming.
               p.mb-0.text-center 
       .col-lg-4.col-lg.mb-5.mb-lg-0(data-aos="flip-up")
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema1/img37.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema1/img37.svg' alt='Imagen decorativa')
           .tarjeta.tarjeta--C01.w-100
             .p-4(data-aos="fade-down") Zoom y Microsoft Teams, que facilitan la comunicación y el trabajo en equipo en entornos virtuales.
               p.mb-0.text-center 
@@ -404,7 +401,7 @@
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             .col-lg-10
-              img(data-aos="fade-right")(src='@/assets/curso/temas/tema1/img38.svg' alt='AvatarTop')
+              img(data-aos="fade-right")(src='@/assets/curso/temas/tema1/img38.svg' alt='Imagen decorativa')
           .tarjeta.tarjeta--C01
             .p-3
               h4 

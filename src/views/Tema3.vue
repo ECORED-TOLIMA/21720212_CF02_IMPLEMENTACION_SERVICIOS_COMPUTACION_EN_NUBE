@@ -165,12 +165,12 @@
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img
             .col-lg-11
-              img(data-aos="fade-right")(src='@/assets/curso/temas/tema3/img11.svg' alt='AvatarTop')
+              img(data-aos="fade-right")(src='@/assets/curso/temas/tema3/img11.svg' alt='Imagen decorativa')
           .tarjeta.tarjeta--C01
             .p-3
-              ul.lista-ul
+              ul.lista-ul.mb-0
                 li
-                  ul
+                  ul.mb-0
                     li 
                       i.lista-ul__vineta
                       p.mb-0 Un aprendiz que guarda sus evidencias y presentaciones en Google Drive para acceder a ellas desde el aula, su casa o incluso un café Internet.
@@ -189,11 +189,10 @@
     
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-12
-        .d-flex.flex-wrap.align-items-stretch.tarjeta01
+        .d-flex.flex-wrap.align-items-center.tarjeta01
           .imagen-01
             figure.mb-0
               img(src='@/assets/curso/temas/tema3/img12.svg' alt='Servidor' class='img-fluid')
-          
           .contenido-tarjeta.p-4
             p(data-aos="fade-down")
               | Es una de las funciones más poderosas que ofrece la nube, ya que permite a varias personas trabajar de manera conjunta en un mismo archivo o proyecto sin importar la distancia geográfica. Gracias a esta característica, aprendices, instructores y profesionales pueden compartir información, editar documentos en tiempo real y comunicarse de forma más efectiva.
@@ -279,7 +278,7 @@
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img
             .col-lg-11
-              img(data-aos="fade-right")(src='@/assets/curso/temas/tema3/img11.svg' alt='AvatarTop')
+              img(data-aos="fade-right")(src='@/assets/curso/temas/tema3/img11.svg' alt='Imagen decorativa')
           .tarjeta.tarjeta--C01
             .p-3
               ul.lista-ul
@@ -325,34 +324,35 @@
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema3/img15.svg', alt='Imagen decorativa')
     
-    p.mb-5(data-aos="fade-down") El proceso general para aprovechar estas herramientas sigue una ruta común:
+    
 
     .row.justify-content-center.tarjeta.tarjeta--BG06.align-items-center.mb-5(data-aos="flip-up")
+      p.mb-5(data-aos="fade-down") El proceso general para aprovechar estas herramientas sigue una ruta común:
       SlyderF.color-acento-botones(columnas="col-lg-6 col-xl-4")
         .tarjeta.tarjeta--BG03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema3/img16.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema3/img16.svg' alt='Imagen decorativa')
           p Acceso a la plataforma mediante un portal <em>web</em> o aplicación móvil.
         .tarjeta.tarjeta--BG03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema3/img17.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema3/img17.svg' alt='Imagen decorativa')
           p Creación de proyectos o espacios de trabajo compartidos, donde los usuarios son invitados con diferentes niveles de permisos.
         .tarjeta.tarjeta--BG03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema3/img18.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema3/img18.svg' alt='Imagen decorativa')
           p Carga o generación de archivos y documentos que pueden ser editados de forma simultánea.
         .tarjeta.tarjeta--BG03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema3/img19.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema3/img19.svg' alt='Imagen decorativa')
           p Comunicación integrada, a través de chats, videollamadas o comentarios en tiempo real.
         .tarjeta.tarjeta--BG03.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
-              img(src='@/assets/curso/temas/tema3/img20.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema3/img20.svg' alt='Imagen decorativa')
           p Monitoreo y control de avances, mediante paneles que muestran el estado de las actividades o tareas asignadas.
     
     .row.justify-content-center.mb-0
